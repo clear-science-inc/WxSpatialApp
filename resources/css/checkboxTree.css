@@ -1,0 +1,58 @@
+div[data-bda-checkbox-tree] {
+  /* prevent user selection */
+  -moz-user-select: -moz-none;
+  -khtml-user-select: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+div[data-checkbox-tree-model] ul {
+  margin: 0;
+  padding: 0;
+  list-style: none; 
+  border: none;
+  overflow: hidden;
+}
+
+div[data-checkbox-tree-model] li {
+  position: relative;
+  padding: 0 0 0 20px;
+  line-height: 0px;
+}
+div[data-checkbox-tree-model] li .notediting {
+	height: 16px;
+}
+div[data-checkbox-tree-model] li .editing {
+	height: 36px;
+}
+
+div[data-checkbox-tree-model] li .expanded {
+  padding: 1px 10px;
+  background-image: url("../icons/blueOpen.png");
+  background-repeat: no-repeat;
+}
+
+div[data-checkbox-tree-model] li .collapsed {
+  padding: 1px 10px;
+  background-image: url("../icons/blueClosed.png");
+  background-repeat: no-repeat;
+}
+
+div[data-checkbox-tree-model] li .normal {
+  padding: 1px 10px;
+  background-image: url("../icons/blueChild.png");
+  background-repeat: no-repeat;
+}
+
+div[data-checkbox-tree-model] li i, div[data-checkbox-tree-model] li span {
+  cursor: pointer;
+}
+
+div[data-checkbox-tree-model] input.treeInlineEdit  {
+	background-color: rgba(255, 255, 255, 0.5);
+	color: rgb(18, 18, 18);
+	border-color: orange;
+	padding: 2px;
+	margin: 5px;
+}

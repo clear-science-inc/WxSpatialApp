@@ -1,0 +1,154 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+*
+* View portion of Utilities and Tools bubble menu in the BDA toolbar.
+-->
+
+<div ng-controller="utilAndToolsCtrl" class="bubble" ng-show='toolbarService.showUtilAndTools'>
+    <div id="utilAndToolsCtrl">
+        <h3>Utilities &amp; Tools</h3>
+        <table id="utilAndToolsTable">
+            <tr>
+                <td>
+                    <button title="Choose Map Base Layer" ng-click="toolbarService.showUtilAndTools=false; toggleMapBaseLayer()">
+                        <img ng-src='resources/icons/maps36.png'>
+                        <span>Maps</span>
+                    </button>
+                </td>
+                <td>
+                    <button title="Toggle Map View" ng-click="toolbarService.showUtilAndTools=false; toggleMapView()" >
+                        <img ng-src='resources/icons/mapView36.png'>
+                        <span>View</span>
+                    </button>
+                </td>
+                <td>
+                    <button title="Toggle Drawing Tools"
+                        ng-click="toolbarService.showUtilAndTools=false; toolbarService.showDrawingTools=!toolbarService.showDrawingTools" >
+                        <img ng-src='resources/icons/pencil.svg' style="height:35px; width:35px">
+                        <span>Drawing</span>
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button title="Toggle Position Readout"  ng-click="toolbarService.showUtilAndTools=false; toggleLatLon()">
+                        <img ng-src='resources/icons/compassRose36.png'>
+                        <span>Lat/Lon</span>
+                    </button>
+                </td>
+                <td>
+                    <button title="Set the Time Period"  ng-click='showTimeMenu=!showTimeMenu'>
+                        <img ng-src='resources/icons/timePeriod36.png'>
+                        <span>DTG</span>
+                    </button>
+                </td>
+                <td ng-controller="WebSocketClientCtlr" >
+                    <button title="WebSocket Test Message"  ng-click="sendTestMessageRequest()" >
+                        <img ng-src='resources/icons/msg.svg'>
+                        <span style="position:relative; top:-10px">Test</span>
+                    </button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <button title="Enable Measure Distance" ng-click='showDistance = !showDistance'>
+                        <img ng-src='resources/icons/measure32.png'>
+                        <span>Distance</span>
+                    </button>
+                </td>
+                <td>
+                    <button title="Add Place Marker"  ng-click="toolbarService.startPlaceMarker=true;" >
+                        <img ng-src="resources/icons/gps_loc.svg" src="resources/icons/gps_loc.svg"
+                            style="height: 30px; top: 4px; position: relative;">
+                        <span style="position: relative; bottom: -2px;">Marker</span>
+                    </button>
+                </td>
+                <td>
+                    <button title="Select Area of Interest"  ng-click="showAoiMenu=!showAoiMenu">
+                        <img ng-src='resources/icons/aoi36.png'>
+                        <span style="position: relative; bottom: 3px;">Area</span>
+                    </button>
+                </td>
+            </tr>
+        </table>
+
+        <div id="aoiMenu">
+            <div class="bubble"  ng-show="showAoiMenu" >
+                <button name='aoiButton' ng-repeat="aoi in aoiToiService.aois | filter:query" value={{aoi.aoi}} title={{aoi.aoi}} ng-click="setAoi()" >{{aoi.label}} </button>
+            </div>
+        </div>
+        <div id='toiMenu'>
+            <div class="bubble"  ng-show="showTimeMenu" >
+                <button ng-repeat="timePeriod in aoiToiService.timePeriods | filter:query" ng-click="setTimePeriod()">{{timePeriod.label}} </button>
+            </div>
+        </div>
+
+        <div id='distancePanel'>
+            <div class="bubble"  ng-show="showDistance" >
+                <p>Distance:  <span style="color:#94DBFF;font-weight:bold">{{distanceService.distance}}</span>
+                    <select ng-model="distanceService.unit" ng-options="unit as unit.label for unit in distanceService.units" ></select>
+                </p>
+                <p>Heading:   <span style="color:#94DBFF;font-weight:bold">{{distanceService.heading}}</span> degrees </p>
+                <div style="text-align: center">
+                    <button disabled>Save</button>
+                    <button title="Clear from map"
+                    	ng-click="distanceService.toggleClear=!distanceService.toggleClear; distanceService.heading=0;; distanceService.setDistance(0);"
+                    	>Clear
+                	</button>
+                </div>
+            	<p></p>
+            	<p>Left click at starting point then left click at ending point.</p>
+            </div>
+        </div>
+
+        <div id=timePeriodModal>
+            <script type="text/ng-template" id="myModalContent.html">
+                <div class="modal-header">
+                    <h3>Select Time Period</h3>
+                </div>
+                <div class="modal-body" id='timePeriodModalBody'>
+                    <div ng-controller="timePeriodCtrl">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="input-group">
+                                    <b style='padding-left: 20px'>Start Time: </b>
+                                    <span id='startTimeBox'>
+                                        <input type="text" class="form-control" datepicker-popup="{{format}}" ng-model="aoiToiService.calStartTime" show-weeks=false is-open="startOpened" min="minDate" max="'2015-06-22'" datepicker-options="dateOptions" show-button-bar=false ng-required="true" />
+                                    </span>
+                                    <span class="input-group-btn">
+                                        <button style='vertical-align: 4px' class="btn btn-default" ng-click="openStart($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+                                    </span>
+                                    <span ng-model="aoiToiService.calStartTime" style="display:inline-block;">
+                                        <timepicker hour-step="hstep" minute-step="mstep" show-meridian=false></timepicker>
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-6">
+                                <p class="input-group">
+                                  <b style='padding-left: 20px; padding-right: 8px'>End Time: </b>
+                                  <span id='endTimeBox'>
+                                    <input type="text" class="form-control" datepicker-popup="{{format}}" ng-model="aoiToiService.calEndTime" show-weeks=false is-open="endOpened" min="aoiToiService.calStartTime" max="'2015-06-22'" datepicker-options="dateOptions" show-button-bar=false ng-required="true" />
+                                  </span>
+                                  <span class="input-group-btn">
+                                    <button style='vertical-align: 4px' class="btn btn-default" ng-click="openEnd($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+                                  </span>
+                                    <span ng-model="aoiToiService.calEndTime" style="display:inline-block;">
+                                        <timepicker hour-step="hstep" minute-step="mstep" show-meridian=false></timepicker>
+                                    </span>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-primary" ng-click="updateTimePeriod(); ok()">OK</button>
+                    <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+                </div>
+            </script>
+        </div>
+
+    </div>
+</div>
+

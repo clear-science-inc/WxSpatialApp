@@ -1,0 +1,118 @@
+/**
+ * Copyright 2014 General Dynamics Information Technology.
+ */
+.bda-collapsiblePane {
+    position: absolute;
+    border-radius: 5px;
+    background-color: rgba(38, 38, 38, 0.75);
+    border: 1px solid #333;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
+.bda-collapsiblePane-west {
+    left: 0px;
+    top: 40px;
+    height: auto;
+    max-height: 660px;
+    width: 290px;
+    transition: left 1s ease-in-out;
+}
+
+.bda-collapsiblePane-east {
+    right: 0px;
+    top: 40px;
+    bottom: 120px;
+    width: 290px;
+    transition: right 1s ease-in-out;
+}
+
+.bda-collapsiblePane.collapsed {
+    overflow: hidden;
+    border: none;
+}
+
+.bda-collapsiblePane-south {
+    right: 0px;
+    bottom: 28px;
+    height: 160px;
+    width: auto;
+    transition: height 1s ease-in-out;
+}
+
+.bda-collapsiblePane-north {
+    right: 0px;
+    top: 40px;
+    height: 160px;
+    width: auto;
+    transition: height 1s ease-in-out;
+}
+
+.bda-collapsiblePane-west.collapsed {
+    left: -290px;
+}
+
+.bda-collapsiblePane-east.collapsed {
+    right: -290px;
+}
+
+.bda-collapsiblePane-north.collapsed, .bda-collapsiblePane-south.collapsed {
+    height: 0px;
+}
+
+.bda-collapsibleButton {
+    position: absolute;
+    height: 24px;
+    width: 24px;
+    opacity: 0.6;
+    background-position:center;
+    background-repeat: no-repeat;
+    -moz-transition: all 1s ease-in-out;
+    -ms-transition: all 1s ease-in-out;
+    -o-transition: all 1s ease-in-out;
+    -webkit-transition: all 1s ease-in-out;
+    transition: all 1s ease-in-out;
+}
+
+.bda-collapsibleButton:hover {
+    opacity: 0.8;
+    -webkit-box-shadow: 0 0 20px #FFFFAA;
+}
+
+.bda-collapsibleButton-west {
+    background-image: url(../icons/left.png);
+    left: 291px;
+    top: 41px;
+}
+
+.bda-collapsibleButton-east {
+    background-image: url(../icons/right.png);
+    right: 0px;
+    top: 41px;
+}
+.bda-collapsibleButton-south {
+    background-image: url(../icons/down.png);
+    right: 0px;
+    bottom: 182px;
+}
+.bda-collapsibleButton-north {
+    background-image: url(../icons/up.png);
+    right: 0px;
+    top: 40px;
+}
+.bda-collapsibleButton-west.collapsed {
+    background-image: url(../icons/right.png);
+    left: 1px;
+}
+.bda-collapsibleButton-south.collapsed {
+    background-image: url(../icons/up.png);
+    bottom: 22px;
+}
+.bda-collapsibleButton-east.collapsed {
+    background-image: url(../icons/left.png);
+    right: 1px;
+}
+.bda-collapsibleButton-north.collapsed {
+    background-image: url(../icons/down.png);
+    top: 40px;
+}

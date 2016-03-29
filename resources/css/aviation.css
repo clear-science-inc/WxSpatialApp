@@ -1,0 +1,21 @@
+/**
+ * Copyright 2014 General Dynamics Information Technology.
+ */
+
+#aviationCtrl table {
+    margin: 0 auto; /* center the table */
+}
+
+.bda-aviation-play-button {
+    background-image: url(../icons/play.png);
+    height: 32px;
+    width: 32px;
+    background-color: rgba(1,1,1,0);
+    border: none;
+    display: block;
+    margin: 0 auto;
+}
+
+.bda-aviation-play-button.playing {
+    background-image: url(../icons/stop.png);
+}

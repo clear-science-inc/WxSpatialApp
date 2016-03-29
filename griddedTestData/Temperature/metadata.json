@@ -1,0 +1,12 @@
+{
+  "name": "Temperature_02",
+  "version": "1.0.0",
+  "description": "",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "1",
+  "maxzoom": "4",
+  "bounds": "-152.90039017,12.17109706,-49.34140639,61.29480221",
+  "scale": "1",
+  "profile": "mercator"
+}

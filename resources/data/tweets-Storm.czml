@@ -1,0 +1,133 @@
+[{
+  "id":"document",
+  "version":"1.0"
+ },
+ {
+  "id":"2.62374E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.96184,40.80821085,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"SimoMarms","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>SimoMarms</td></tr> <tr><td>Date:</td> <td>1.35139E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://twitter.com/download/iphone rel=nofollow>Twitter for iPhone</a><td></tr> <tr><td>Hashtags:</td> <td>#bringitonsandy<td></tr> <tr><td>Mentions:</td> <td>Chobani<td></tr> <tr><td>Location:</td> <td>Lower Manhattan<td></tr> <tr><td>Message:</td> <td>My hurricane stock :coconut water; smart water; illy cappuccino and mochaccino drinks; 8 @chobani;quinoa salads and apples #bringitonsandy</td></tr> <tr><td>Keywords:</td> <td>coconut cappuccino chobaniquinoa illy hurricane #bringitonsandy water apples mochaccino drinks salads smart stock </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62368E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.9868098,40.7159403,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"KimmyHazelEyez","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>KimmyHazelEyez</td></tr> <tr><td>Date:</td> <td>1.35139E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td>web<td></tr> <tr><td>Hashtags:</td> <td>#nolie<td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Lower.East .Side N.J<td></tr> <tr><td>Message:</td> <td>This Hurricane got people acting all types of greedy ; SAVE some water for others damnit lol I swear about Famine out here #NOLie</td></tr> <tr><td>Keywords:</td> <td>famine people hurricane greedy water acting swear #nolie damnit save types </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62363E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.96437228,40.71130428,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"DuMontBurger","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>DuMontBurger</td></tr> <tr><td>Date:</td> <td>1.35139E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td>web<td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Williamsburg; Brooklyn<td></tr> <tr><td>Message:</td> <td>RT @DuMontBrooklyn: Hurricane worries? Come hell or high water; we will be open for business!! (At least with booze available!)</td></tr> <tr><td>Keywords:</td> <td>water dumontbrooklyn business!! hurricane high booze worries hell available! open </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62343E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-74.0050701,40.7095958,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"DowntownNYC","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>DowntownNYC</td></tr> <tr><td>Date:</td> <td>1.35138E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://www.tweetdeck.com rel=nofollow>TweetDeck</a><td></tr> <tr><td>Hashtags:</td> <td>#lowermanhattan<td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Downtown New York<td></tr> <tr><td>Message:</td> <td>Con Edison says storm surge in which sea water floods #LowerManhattan network will prompt steam service cutoffs near Brooklyn Bridge.</td></tr> <tr><td>Keywords:</td> <td>cutoffs edison prompt storm service bridge floods surge water brooklyn steam sea #lowermanhattan network </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62308E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.9299783,40.7719538,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"MrJoebot","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>MrJoebot</td></tr> <tr><td>Date:</td> <td>1.35137E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td>web<td></tr> <tr><td>Hashtags:</td> <td>#emergencyprep #hurricanesandy<td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Astoria; Queens<td></tr> <tr><td>Message:</td> <td>It came to light that this household is lacking in emergency vodka and soda water. We have limes covered. #emergencyprep #HurricaneSandy</td></tr> <tr><td>Keywords:</td> <td>#emergencyprep vodka lacking emergency limes light household water soda covered #hurricanesandy </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62308E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.9597222,40.7902778,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"BTCochran1","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>BTCochran1</td></tr> <tr><td>Date:</td> <td>1.35137E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td>web<td></tr> <tr><td>Hashtags:</td> <td>#hurricanesandy<td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Manhattan; NY<td></tr> <tr><td>Message:</td> <td>Got an email saying to fill our bathtubs with water so if the water supply is messed up. Yeah right. #HurricaneSandy</td></tr> <tr><td>Keywords:</td> <td>yeah messed right supply up bathtubs water #hurricanesandy fill </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62297E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-74.00589789,40.70407898,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"cara_bloch","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>cara_bloch</td></tr> <tr><td>Date:</td> <td>1.35137E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://instagr.am rel=nofollow>Instagram</a><td></tr> <tr><td>Hashtags:</td> <td>#frenchbulldog #hurricanesandy #luellabloch<td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>New York City<td></tr> <tr><td>Message:</td> <td>#frenchbulldog #hurricanesandy #luellabloch bring it on! @ By The Water http://t.co/yzVzl1Ml</td></tr> <tr><td>Keywords:</td> <td>#frenchbulldog on! water bring #luellabloch http://t.co/yzvzl1ml #hurricanesandy </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62239E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.9299783,40.7719538,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Brennanator","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>Brennanator</td></tr> <tr><td>Date:</td> <td>1.35136E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://twitter.com/download/android rel=nofollow>Twitter for Android</a><td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Astoria; NY<td></tr> <tr><td>Message:</td> <td>RT @KarolNYC: We still have like 10 gallons of water left over from Hurricane Irene.</td></tr> <tr><td>Keywords:</td> <td>gallons hurricane water karolnyc irene left </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62233E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.96437228,40.71130428,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"DuMontBrooklyn","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>DuMontBrooklyn</td></tr> <tr><td>Date:</td> <td>1.35136E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td>web<td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Williamsburg; Brooklyn<td></tr> <tr><td>Message:</td> <td>Hurricane worries? Come hell or high water; we will be open for business!! (At least with booze available!)</td></tr> <tr><td>Keywords:</td> <td>water business!! hurricane high booze worries hell available! open </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62188E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-74.0093063,40.7153802,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"tribecatreats","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>tribecatreats</td></tr> <tr><td>Date:</td> <td>1.35135E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td>web<td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Tribeca; New York City<td></tr> <tr><td>Message:</td> <td>Prepare for Hurricane Sandy!! Flashlights; batteries; bottled water; and Pumpkin Whoopie Pies.</td></tr> <tr><td>Keywords:</td> <td>whoopie prepare flashlights hurricane water batteries bottled sandy!! pies pumpkin </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62169E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.9299783,40.7719538,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"TylerJGilmore","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>TylerJGilmore</td></tr> <tr><td>Date:</td> <td>1.35134E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://twitter.com/download/iphone rel=nofollow>Twitter for iPhone</a><td></tr> <tr><td>Hashtags:</td> <td>#decision<td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Astoria; New York<td></tr> <tr><td>Message:</td> <td>In my preparations for Hurricane Sandy; it does not go unnoticed that giant bags of fun-sized Twix are cheaper than bottled water. #Decision</td></tr> <tr><td>Keywords:</td> <td>fun-sized bags giant twix unnoticed hurricane preparations cheaper water bottled #decision sandy </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.62035E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.97592664,40.72910365,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Erockalypse","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>Erockalypse</td></tr> <tr><td>Date:</td> <td>1.35131E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://tapbots.com/tweetbot rel=nofollow>Tweetbot for iOS</a><td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td>anjelica<td></tr> <tr><td>Location:</td> <td>40.729721;-73.975865<td></tr> <tr><td>Message:</td> <td>@anjelica when?s the last time a storm ever lived up to its hype to the point that we had no electricity or running water?</td></tr> <tr><td>Keywords:</td> <td>lived when?s point electricity water running storm hype anjelica </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.61939E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-74.00930957,40.78565866,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"willferman","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>willferman</td></tr> <tr><td>Date:</td> <td>1.35129E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://twitter.com/#!/download/ipad rel=nofollow>Twitter for iPad</a><td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>West New York<td></tr> <tr><td>Message:</td> <td>The insanity that this tropical storm is causing in Jersey is hilarious. Calm down people. It's just water falling from the sky.</td></tr> <tr><td>Keywords:</td> <td>water people sky insanity tropical causing calm storm hilarious falling jersey </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.61931E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.995417,40.7573238,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"rogernewcomb","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>rogernewcomb</td></tr> <tr><td>Date:</td> <td>1.35128E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td>web<td></tr> <tr><td>Hashtags:</td> <td>#nyc<td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Hell's Kitchen; New York<td></tr> <tr><td>Message:</td> <td>RT @patkiernan: Latest from NY1 Weather: still early; but worst #NYC impact of storm on Monday night likely to be water rather than extr ...</td></tr> <tr><td>Keywords:</td> <td>impact water #nyc extr monday ny1 early weather worst storm night patkiernan latest </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.6193E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.9790668,40.7133334,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"MarshallSella","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>MarshallSella</td></tr> <tr><td>Date:</td> <td>1.35128E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://twitter.com/download/iphone rel=nofollow>Twitter for iPhone</a><td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>New York; N.Y.<td></tr> <tr><td>Message:</td> <td>Hurricane Survival Tip: Running low on supplies? You can create water by simply NOT rubbing two sticks together.</td></tr> <tr><td>Keywords:</td> <td>sticks hurricane survival tip together water running simply low supplies create rubbing </td></tr> </table></p>" 
+ },
+ {
+  "id":"2.61914E+17", 
+  "name":"HardCoreStorm", 
+  "position":{"cartographicDegrees":[-73.939462,40.84013,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"KayVisionProd","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Name:</td> <td>KayVisionProd</td></tr> <tr><td>Date:</td> <td>1.35128E+12<td></tr> <tr><td># Re-Tweets:</td> <td>0<td></tr> <tr><td>Source:</td> <td><a href=http://levelupstudio.com/plume rel=nofollow>Plume?ÿfor?ÿAndroid</a><td></tr> <tr><td>Hashtags:</td> <td><td></tr> <tr><td>Mentions:</td> <td><td></tr> <tr><td>Location:</td> <td>Washington Heights; NYC<td></tr> <tr><td>Message:</td> <td>my mom asked me to go buy water and bread because the storm is coming. lmaooo</td></tr> <tr><td>Keywords:</td> <td>buy mom lmaooo water storm coming asked bread </td></tr> </table></p>" 
+ }
+]

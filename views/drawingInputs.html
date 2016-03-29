@@ -1,0 +1,35 @@
+<div ng-controller='drawingInputsCtrl' id='drawingInputsCtrl'>
+    <table cellspacing=5>
+        <tr>
+            <th style="text-align:right; padding-bottom: 5px; padding-right: 10px;">Name:</th>
+            <td>
+                <input type="text" ng-model='temporaryName' style="
+                    background-color: rgba(250,250,250,.5);
+                    color: black;">
+            </td>
+        </tr>
+        <tr>
+            <th style="text-align:right; padding-bottom: 5px; padding-right: 10px;">Color:</th>
+            <td>
+                <input type="color" ng-model="temporaryColor" style="
+                    width: 30px;
+                    padding: 0;
+                    height: 24px;">
+            </td>
+        </tr>
+        <tr>
+            <th style="text-align:right; padding-bottom: 5px; padding-right: 10px;">Opacity:</th>
+            <td>
+                <input type="number" ng-model="temporaryOpacity" min="0" max="100" step="5" value="{{temporaryOpacity}}" style="
+                    width: 60px;
+                    background-color: rgba(250,250,250,.5);
+                    color: black;
+                    padding: 3px;">                
+            </td>
+        </tr>
+    </table>
+    <div style="text-align: center;">
+        <button class="bdaButton" title="Use these inputs" ng-click="toolbarService.showDrawHelperInputs=false; ok();" >OK</button>
+        <button class="bdaButton" title="Cancel these inputs" ng-click="toolbarService.showDrawHelperInputs=false; cancel();">Cancel</button>
+    </div>    
+</div>

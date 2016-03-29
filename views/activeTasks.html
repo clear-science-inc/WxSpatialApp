@@ -1,0 +1,19 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* View portion of Active Tasks list.
+-->
+
+<div id='activeTasksAccordian'>
+    <accordion close-others=false>
+        <accordion-group heading='Weather Products' is-open='toolbarService.openWeather' ng-show="toolbarService.showWeather">
+            <div id="weatherContainer" class="bda-products-tree-container" ng-include="'views/weather.html'"></div>
+        </accordion-group>
+        <accordion-group heading="Aviation" is-open='toolbarService.openAviation' ng-show="toolbarService.showAviation">
+            <div ng-include="'views/aviation.html'"></div>
+        </accordion-group>
+        <accordion-group heading="Social Media" is-open='toolbarService.openSocial' ng-show="toolbarService.showSocial">
+            <div id="socialmediaContainer" class="bda-products-tree-container" ng-include="'views/social.html'"></div>
+        </accordion-group>
+    </accordion>
+</div>

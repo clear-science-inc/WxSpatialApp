@@ -1,0 +1,37 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+*
+* View portion of aviation panel.
+-->
+<style>@import url(resources/css/aviation.css);</style>
+<div id="aviationCtrl" ng-controller="aviationCtrl" >
+    <table>
+		<tr><td><center><b><u>Demo's</u></b></center></td></tr>
+        <tr>
+            <td>Routes</td>
+            <td><button class="bda-aviation-play-button" title="Start Routes Demo"
+                ng-click="displayTrajectoryDemo=false; displaySatelliteDemo=false; displayInterpDemo=false; displayRoutesDemo=!displayRoutesDemo; toggleAviation($event);"></button></td>
+        </tr>
+        <tr>
+            <td>Trajectory</td>
+            <td><button class="bda-aviation-play-button" title="Start Trajectory Demo"
+                ng-click="displayRoutesDemo=false; displaySatelliteDemo=false; displayInterpDemo=false; displayTrajectoryDemo=!displayTrajectoryDemo; toggleAviation($event);"></button></td>
+        </tr>
+        <tr>
+            <td>Satellite</td>
+            <td><button class="bda-aviation-play-button" title="Start Trajectory Demo"
+                ng-click="displayRoutesDemo=false; displayTrajectoryDemo=false; displayInterpDemo=false; displaySatelliteDemo=!displaySatelliteDemo; toggleAviation($event);"></button></td>
+        </tr>
+        <tr>
+            <td>Interpolation</td>
+            <td><button class="bda-aviation-play-button" title="Start Interpolation Demo"
+                        ng-click="displayRoutesDemo=false; displayTrajectoryDemo=false; displaySatelliteDemo=false; displayInterpDemo=!displayInterpDemo; toggleAviation($event);"></button></td>
+        </tr>
+		<tr><td><center><b><u>Views</u></b></center></td></tr>
+        <tr>
+            <td><button title="Top Down View" ng-click="toggleSide=false; toggleAircraft=false; toggleTopDown=true;">Top Down</button></td>
+            <td><button title="Side View" ng-click="toggleTopDown=false; toggleAircraft=false; toggleSide=true;">Side</button></td>
+            <td><button title="Aircraft View" ng-click="toggleTopDown=false; toggleSide=false; toggleAircraft=true;">Aircraft</button></td>
+        </tr>
+    </table>
+</div>

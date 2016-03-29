@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="315"
+   height="122"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="visibilityScale.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8"
+     inkscape:cx="180.0073"
+     inkscape:cy="61.553827"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1302"
+     inkscape:window-height="641"
+     inkscape:window-x="47"
+     inkscape:window-y="73"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-930.36218)"><rect
+   style="color:#000000;fill:#262626;fill-opacity:0.78431374;fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect2985"
+   width="315"
+   height="122"
+   x="-1.0101526"
+   y="-0.73353434"
+   transform="translate(0,930.36218)" />
+<rect
+   style="color:#000000;fill:#ff4545;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-0"
+   width="3.711298701298701"
+   height="40"
+   x="14.995"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff3434;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-375"
+   width="3.711298701298701"
+   height="40"
+   x="18.6962987012987"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff2322;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-750"
+   width="3.711298701298701"
+   height="40"
+   x="22.397597402597402"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff1211;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-1125"
+   width="3.711298701298701"
+   height="40"
+   x="26.098896103896102"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff0000;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-1500"
+   width="3.711298701298701"
+   height="40"
+   x="29.800194805194803"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff1400;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-1875"
+   width="3.711298701298701"
+   height="40"
+   x="33.5014935064935"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff2800;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-2250"
+   width="3.711298701298701"
+   height="40"
+   x="37.20279220779221"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff3c00;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-2625"
+   width="3.711298701298701"
+   height="40"
+   x="40.90409090909091"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff4f00;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-3000"
+   width="3.711298701298701"
+   height="40"
+   x="44.605389610389615"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff5b00;        fill-opacity:1.0;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-3375"
+   width="3.711298701298701"
+   height="40"
+   x="48.30668831168832"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff6700;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-3750"
+   width="3.711298701298701"
+   height="40"
+   x="52.00798701298702"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff7300;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-4125"
+   width="3.711298701298701"
+   height="40"
+   x="55.70928571428573"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff7f00;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-4500"
+   width="3.711298701298701"
+   height="40"
+   x="59.41058441558443"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff8600;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-4875"
+   width="3.711298701298701"
+   height="40"
+   x="63.111883116883135"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff8c00;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-5250"
+   width="3.711298701298701"
+   height="40"
+   x="66.81318181818185"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff9300;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-5625"
+   width="3.711298701298701"
+   height="40"
+   x="70.51448051948054"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff9900;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-6000"
+   width="3.711298701298701"
+   height="40"
+   x="74.21577922077924"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ff9e00;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-6375"
+   width="3.711298701298701"
+   height="40"
+   x="77.91707792207794"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffa400;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-6750"
+   width="3.711298701298701"
+   height="40"
+   x="81.61837662337663"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffa900;        fill-opacity:0.8;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-7125"
+   width="3.711298701298701"
+   height="40"
+   x="85.31967532467533"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffae00;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-7500"
+   width="3.711298701298701"
+   height="40"
+   x="89.02097402597403"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffb600;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-7875"
+   width="3.711298701298701"
+   height="40"
+   x="92.72227272727272"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffbd00;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-8250"
+   width="3.711298701298701"
+   height="40"
+   x="96.42357142857142"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffc400;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-8625"
+   width="3.711298701298701"
+   height="40"
+   x="100.12487012987012"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffcc00;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-9000"
+   width="3.711298701298701"
+   height="40"
+   x="103.82616883116881"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffd300;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-9375"
+   width="3.711298701298701"
+   height="40"
+   x="107.52746753246751"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffd900;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-9750"
+   width="3.711298701298701"
+   height="40"
+   x="111.22876623376621"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffe000;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-10125"
+   width="3.711298701298701"
+   height="40"
+   x="114.9300649350649"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffe600;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-10500"
+   width="3.711298701298701"
+   height="40"
+   x="118.6313636363636"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffec00;        fill-opacity:0.6;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-10875"
+   width="3.711298701298701"
+   height="40"
+   x="122.3326623376623"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#fff300;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-11250"
+   width="3.711298701298701"
+   height="40"
+   x="126.033961038961"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#fff900;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-11625"
+   width="3.711298701298701"
+   height="40"
+   x="129.7352597402597"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ffff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-12000"
+   width="3.711298701298701"
+   height="40"
+   x="133.4365584415584"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#f5ff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-12375"
+   width="3.711298701298701"
+   height="40"
+   x="137.1378571428571"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ebff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-12750"
+   width="3.711298701298701"
+   height="40"
+   x="140.83915584415578"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#d7ff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-13125"
+   width="3.711298701298701"
+   height="40"
+   x="144.54045454545448"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#ceff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-13500"
+   width="3.711298701298701"
+   height="40"
+   x="148.24175324675318"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#baff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-13875"
+   width="3.711298701298701"
+   height="40"
+   x="151.94305194805187"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#a6ff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-14250"
+   width="3.711298701298701"
+   height="40"
+   x="155.64435064935057"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#92ff00;        fill-opacity:0.4;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-14625"
+   width="3.711298701298701"
+   height="40"
+   x="159.34564935064927"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#7fff00;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-15000"
+   width="3.711298701298701"
+   height="40"
+   x="163.04694805194796"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#5fff2d;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-15375"
+   width="3.711298701298701"
+   height="40"
+   x="166.74824675324666"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#3fff5a;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-15750"
+   width="3.711298701298701"
+   height="40"
+   x="170.44954545454536"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#1fff87;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-16125"
+   width="3.711298701298701"
+   height="40"
+   x="174.15084415584406"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00ffb3;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-16500"
+   width="3.711298701298701"
+   height="40"
+   x="177.85214285714275"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00ffc6;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-16875"
+   width="3.711298701298701"
+   height="40"
+   x="181.55344155844145"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00ffd9;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-17250"
+   width="3.711298701298701"
+   height="40"
+   x="185.25474025974015"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00ffec;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-17625"
+   width="3.711298701298701"
+   height="40"
+   x="188.95603896103884"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00ffff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-18000"
+   width="3.711298701298701"
+   height="40"
+   x="192.65733766233754"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00f9ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-18375"
+   width="3.711298701298701"
+   height="40"
+   x="196.35863636363624"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00f3ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-18750"
+   width="3.711298701298701"
+   height="40"
+   x="200.05993506493493"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00ecff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-19125"
+   width="3.711298701298701"
+   height="40"
+   x="203.76123376623363"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00e6ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-19500"
+   width="3.711298701298701"
+   height="40"
+   x="207.46253246753233"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00dfff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-19875"
+   width="3.711298701298701"
+   height="40"
+   x="211.16383116883102"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00d9ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-20250"
+   width="3.711298701298701"
+   height="40"
+   x="214.86512987012972"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00d3ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-20625"
+   width="3.711298701298701"
+   height="40"
+   x="218.56642857142842"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00ccff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-21000"
+   width="3.711298701298701"
+   height="40"
+   x="222.26772727272711"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00c2ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-21375"
+   width="3.711298701298701"
+   height="40"
+   x="225.9690259740258"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00b8ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-21750"
+   width="3.711298701298701"
+   height="40"
+   x="229.6703246753245"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00adff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-22125"
+   width="3.711298701298701"
+   height="40"
+   x="233.3716233766232"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#00a3ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-22500"
+   width="3.711298701298701"
+   height="40"
+   x="237.0729220779219"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0097ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-22875"
+   width="3.711298701298701"
+   height="40"
+   x="240.7742207792206"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#008bff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-23250"
+   width="3.711298701298701"
+   height="40"
+   x="244.4755194805193"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#007fff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-23625"
+   width="3.711298701298701"
+   height="40"
+   x="248.176818181818"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0073ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-24000"
+   width="3.711298701298701"
+   height="40"
+   x="251.8781168831167"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0069ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-24375"
+   width="3.711298701298701"
+   height="40"
+   x="255.5794155844154"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#005fff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-24750"
+   width="3.711298701298701"
+   height="40"
+   x="259.2807142857141"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0055ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-25125"
+   width="3.711298701298701"
+   height="40"
+   x="262.9820129870128"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#004aff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-25500"
+   width="3.711298701298701"
+   height="40"
+   x="266.6833116883115"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0038ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-25875"
+   width="3.711298701298701"
+   height="40"
+   x="270.3846103896102"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0026ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-26250"
+   width="3.711298701298701"
+   height="40"
+   x="274.0859090909089"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0013ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-26625"
+   width="3.711298701298701"
+   height="40"
+   x="277.7872077922076"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#0000ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-27000"
+   width="3.711298701298701"
+   height="40"
+   x="281.4885064935063"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#1a00ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-27375"
+   width="3.711298701298701"
+   height="40"
+   x="285.189805194805"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#3400ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-27750"
+   width="3.711298701298701"
+   height="40"
+   x="288.8911038961037"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#4e00ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-28125"
+   width="3.711298701298701"
+   height="40"
+   x="292.5924025974024"
+   y="970.0" />
+<rect
+   style="color:#000000;fill:#6600ff;        fill-opacity:0.2;        fill-rule:nonzero;stroke:none;stroke-width:3;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+   id="rect-28500"
+   width="3.711298701298701"
+   height="40"
+   x="296.2937012987011"
+   y="970.0" />
+<text
+   xml:space="preserve"
+   style="font-size:16px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:center;line-height:125%;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Calibri;-inkscape-font-specification:Calibri Bold"
+   x="154.616"
+   y="959.60437"
+   id="textvisibility"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan3067"
+     x="156.4285"
+     y="959.60437">Visibility (m) </tspan></text>
+&quot;
+    <text
+   xml:space="preserve"
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+   x="7"
+   y="1021.5526"
+   id="text3069"
+   sodipodi:linespacing="125%"><tspan
+     sodipodi:role="line"
+     id="tspan-visibility"
+     x="7"
+     y="1021.5526"> 0  2625  6375  9750 13125 17250 20625 24000 28500</tspan></text>
+<text
+   xml:space="preserve"
+   style="font-size:10px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Sans Bold"
+   x="223.74879"
+   y="148.76904"
+   id="text3064"
+   sodipodi:linespacing="125%"
+   transform="translate(0,930.36218)"><tspan
+     sodipodi:role="line"
+     id="tspan3066"
+     x="223.74879"
+     y="148.76904">+</tspan></text>
+</g>
+</svg>

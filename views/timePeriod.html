@@ -1,0 +1,51 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* Time Period GUI.
+-->
+
+<div id=timePeriodModal>
+    <div class="modal-header">
+        <h3>Select Time Period</h3>
+    </div>
+    <div class="modal-body" id='timePeriodModalBody'>
+        <div ng-controller="timePeriodCtrl">
+            <div class="row">
+                <div class="col-md-6">
+                    <p class="input-group">
+                        <b style='padding-left: 20px'>Start Time: </b>
+                        <span id='startTimeBox'>
+                            <input type="text" class="form-control" datepicker-popup="{{format}}" ng-model="aoiToiService.calStartTime" show-weeks=false is-open="startOpened" min="minDate" max="'2015-06-22'" datepicker-options="dateOptions" show-button-bar=false ng-required="true" />
+                        </span>
+                        <span class="input-group-btn">
+                            <button style='vertical-align: 4px' class="btn btn-default" ng-click="openStart($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+                        </span>
+                        <span ng-model="aoiToiService.calStartTime" style="display:inline-block;">
+                            <timepicker hour-step="hstep" minute-step="mstep" show-meridian=false></timepicker>
+                        </span>
+                    </p>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-md-6">
+                    <p class="input-group">
+                      <b style='padding-left: 20px; padding-right: 8px'>End Time: </b>
+                      <span id='endTimeBox'>
+                        <input type="text" class="form-control" datepicker-popup="{{format}}" ng-model="aoiToiService.calEndTime" show-weeks=false is-open="endOpened" min="aoiToiService.calStartTime" max="'2015-06-22'" datepicker-options="dateOptions" show-button-bar=false ng-required="true" />
+                      </span>
+                      <span class="input-group-btn">
+                        <button style='vertical-align: 4px' class="btn btn-default" ng-click="openEnd($event)"><i class="glyphicon glyphicon-calendar"></i></button>
+                      </span>
+                        <span ng-model="aoiToiService.calEndTime" style="display:inline-block;">
+                            <timepicker hour-step="hstep" minute-step="mstep" show-meridian=false></timepicker>
+                        </span>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="modal-footer">
+        <button class="btn btn-primary" ng-click="ok()">OK</button>
+        <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+    </div>
+</div>          

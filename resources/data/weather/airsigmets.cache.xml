@@ -1,0 +1,2468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XML-Schema-instance" version="1.1" xsi:noNamespaceSchemaLocation="http://aviationweather.gov/adds/schema/airsigmet1_1.xsd">
+  <request_index>11682</request_index>
+  <data_source name="airsigmets" />
+  <request type="retrieve" />
+  <errors />
+  <warnings />
+  <time_taken_ms>614</time_taken_ms>
+  <data num_results="31">
+    <AIRSIGMET>
+      <raw_text>WAUS44 KKCI 240845 
+DFWS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...TX 
+FROM 30N IAH TO 50SE IAH TO 30SW PSX TO 50NNW BRO TO 30ESE LRD 
+TO 50SSW SAT TO 30N IAH 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="7">
+        <point>
+          <longitude>-95.35</longitude>
+          <latitude>30.4631</latitude>
+        </point>
+        <point>
+          <longitude>-94.6722</longitude>
+          <latitude>29.3675</latitude>
+        </point>
+        <point>
+          <longitude>-96.7144</longitude>
+          <latitude>28.4037</latitude>
+        </point>
+        <point>
+          <longitude>-97.7378</longitude>
+          <latitude>26.6914</latitude>
+        </point>
+        <point>
+          <longitude>-98.897</longitude>
+          <latitude>27.2865</latitude>
+        </point>
+        <point>
+          <longitude>-98.8251</longitude>
+          <latitude>28.8677</latitude>
+        </point>
+        <point>
+          <longitude>-95.35</longitude>
+          <latitude>30.4631</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS46 KKCI 240845 
+SFOS WA 240845 
+AIRMET SIERRA UPDT 2 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...WA OR ID MT 
+FROM 30SE YDC TO 60SW YQL TO 40NW HLN TO 20SSW LKT TO 20ENE BKE 
+TO 30NNE GEG TO 40NW EPH TO 30SE YDC 
+MTNS OBSC BY FU/HZ. CONDS CONTG BYD 15Z THRU 21Z. 
+OTLK VALID 1500-2100Z...MTN OBSCN WA OR ID MT WY 
+BOUNDED BY 40SW YQL-SHR-20WSW LKT-30NE BKE-20NNE GEG-30NW EPH- 
+30SSE YDC-40SW YQL 
+MTNS OBSC BY FU/HZ. CONDS CONTG THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-119.9766</longitude>
+          <latitude>49.113</latitude>
+        </point>
+        <point>
+          <longitude>-113.873</longitude>
+          <latitude>48.9199</latitude>
+        </point>
+        <point>
+          <longitude>-112.6402</longitude>
+          <latitude>47.078</latitude>
+        </point>
+        <point>
+          <longitude>-114.259</longitude>
+          <latitude>44.7128</latitude>
+        </point>
+        <point>
+          <longitude>-117.376</longitude>
+          <latitude>44.9664</latitude>
+        </point>
+        <point>
+          <longitude>-117.3422</longitude>
+          <latitude>48.0244</latitude>
+        </point>
+        <point>
+          <longitude>-120.1204</longitude>
+          <latitude>47.8479</latitude>
+        </point>
+        <point>
+          <longitude>-119.9766</longitude>
+          <latitude>49.113</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS46 KKCI 240845 
+SFOS WA 240845 
+AIRMET SIERRA UPDT 2 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...WA OR ID MT 
+FROM 30SE YDC TO 60SW YQL TO 40NW HLN TO 20SSW LKT TO 20ENE BKE 
+TO 30NNE GEG TO 40NW EPH TO 30SE YDC 
+MTNS OBSC BY FU/HZ. CONDS CONTG BYD 15Z THRU 21Z. 
+OTLK VALID 1500-2100Z...MTN OBSCN WA OR ID MT WY 
+BOUNDED BY 40SW YQL-SHR-20WSW LKT-30NE BKE-20NNE GEG-30NW EPH- 
+30SSE YDC-40SW YQL 
+MTNS OBSC BY FU/HZ. CONDS CONTG THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-119.9766</longitude>
+          <latitude>49.113</latitude>
+        </point>
+        <point>
+          <longitude>-113.873</longitude>
+          <latitude>48.9199</latitude>
+        </point>
+        <point>
+          <longitude>-112.6402</longitude>
+          <latitude>47.078</latitude>
+        </point>
+        <point>
+          <longitude>-114.259</longitude>
+          <latitude>44.7128</latitude>
+        </point>
+        <point>
+          <longitude>-117.376</longitude>
+          <latitude>44.9664</latitude>
+        </point>
+        <point>
+          <longitude>-117.3422</longitude>
+          <latitude>48.0244</latitude>
+        </point>
+        <point>
+          <longitude>-120.1204</longitude>
+          <latitude>47.8479</latitude>
+        </point>
+        <point>
+          <longitude>-119.9766</longitude>
+          <latitude>49.113</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS44 KKCI 240845 
+DFWS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...TX 
+FROM 30N IAH TO 50SE IAH TO 30SW PSX TO 50NNW BRO TO 30ESE LRD 
+TO 50SSW SAT TO 30N IAH 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="7">
+        <point>
+          <longitude>-95.35</longitude>
+          <latitude>30.4631</latitude>
+        </point>
+        <point>
+          <longitude>-94.6722</longitude>
+          <latitude>29.3675</latitude>
+        </point>
+        <point>
+          <longitude>-96.7144</longitude>
+          <latitude>28.4037</latitude>
+        </point>
+        <point>
+          <longitude>-97.7378</longitude>
+          <latitude>26.6914</latitude>
+        </point>
+        <point>
+          <longitude>-98.897</longitude>
+          <latitude>27.2865</latitude>
+        </point>
+        <point>
+          <longitude>-98.8251</longitude>
+          <latitude>28.8677</latitude>
+        </point>
+        <point>
+          <longitude>-95.35</longitude>
+          <latitude>30.4631</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS44 KKCI 240845 
+DFWS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...TN KY 
+FROM HNN TO HMV TO GQO TO 50WSW LOZ TO HNN 
+MTNS OBSC BY CLDS/BR. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="5">
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-85.0828</longitude>
+          <latitude>36.7064</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS46 KKCI 240845 
+SFOS WA 240845 
+AIRMET SIERRA UPDT 2 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...OR CA 
+FROM 40SSE EUG TO 60S DSD TO 80SSW LKV TO 40NE FOT TO 40SSE EUG 
+MTNS OBSC BY FU/HZ. CONDS CONTG BYD 15Z ENDG 15-18Z. 
+OTLK VALID 1500-2100Z...MTN OBSCN WA OR ID MT WY 
+BOUNDED BY 40SW YQL-SHR-20WSW LKT-30NE BKE-20NNE GEG-30NW EPH- 
+30SSE YDC-40SW YQL 
+MTNS OBSC BY FU/HZ. CONDS CONTG THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="5">
+        <point>
+          <longitude>-122.8693</longitude>
+          <latitude>43.5053</latitude>
+        </point>
+        <point>
+          <longitude>-121.3</longitude>
+          <latitude>43.2529</latitude>
+        </point>
+        <point>
+          <longitude>-121.1868</longitude>
+          <latitude>41.2597</latitude>
+        </point>
+        <point>
+          <longitude>-123.6059</longitude>
+          <latitude>41.1384</latitude>
+        </point>
+        <point>
+          <longitude>-122.8693</longitude>
+          <latitude>43.5053</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS44 KKCI 240845 
+DFWS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...TN KY 
+FROM HNN TO HMV TO GQO TO 50WSW LOZ TO HNN 
+MTNS OBSC BY CLDS/BR. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="5">
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-85.0828</longitude>
+          <latitude>36.7064</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS46 KKCI 240845 
+SFOS WA 240845 
+AIRMET SIERRA UPDT 2 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...OR CA 
+FROM 40SSE EUG TO 60S DSD TO 80SSW LKV TO 40NE FOT TO 40SSE EUG 
+MTNS OBSC BY FU/HZ. CONDS CONTG BYD 15Z ENDG 15-18Z. 
+OTLK VALID 1500-2100Z...MTN OBSCN WA OR ID MT WY 
+BOUNDED BY 40SW YQL-SHR-20WSW LKT-30NE BKE-20NNE GEG-30NW EPH- 
+30SSE YDC-40SW YQL 
+MTNS OBSC BY FU/HZ. CONDS CONTG THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="5">
+        <point>
+          <longitude>-122.8693</longitude>
+          <latitude>43.5053</latitude>
+        </point>
+        <point>
+          <longitude>-121.3</longitude>
+          <latitude>43.2529</latitude>
+        </point>
+        <point>
+          <longitude>-121.1868</longitude>
+          <latitude>41.2597</latitude>
+        </point>
+        <point>
+          <longitude>-123.6059</longitude>
+          <latitude>41.1384</latitude>
+        </point>
+        <point>
+          <longitude>-122.8693</longitude>
+          <latitude>43.5053</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS43 KKCI 240845 
+CHIS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...KY TN MS AL 
+FROM 50S HNN TO HMV TO GQO TO 30SSE LGC TO 30SE MEI TO 40E SQS 
+TO 50WSW MSL TO 50NW MSL TO 50S HNN 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="9">
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>37.9146</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-84.9815</longitude>
+          <latitude>32.585</latitude>
+        </point>
+        <point>
+          <longitude>-88.3804</longitude>
+          <latitude>32.0236</latitude>
+        </point>
+        <point>
+          <longitude>-89.4832</longitude>
+          <latitude>33.4575</latitude>
+        </point>
+        <point>
+          <longitude>-88.4152</longitude>
+          <latitude>34.3767</latitude>
+        </point>
+        <point>
+          <longitude>-88.2037</longitude>
+          <latitude>35.2886</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>37.9146</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS45 KKCI 240845 
+SLCS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...ID MT WA OR 
+FROM 30SE YDC TO 60SW YQL TO 40NW HLN TO 20SSW LKT TO 20ENE BKE 
+TO 30NNE GEG TO 40NW EPH TO 30SE YDC 
+MTNS OBSC BY FU/HZ. CONDS CONTG BYD 15Z THRU 21Z. 
+OTLK VALID 1500-2100Z...MTN OBSCN ID MT WY WA OR 
+BOUNDED BY 40SW YQL-SHR-20WSW LKT-30NE BKE-20NNE GEG-30NW EPH- 
+30SSE YDC-40SW YQL 
+MTNS OBSC BY FU/HZ. CONDS CONTG THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T14:45:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-119.9766</longitude>
+          <latitude>49.113</latitude>
+        </point>
+        <point>
+          <longitude>-113.873</longitude>
+          <latitude>48.9199</latitude>
+        </point>
+        <point>
+          <longitude>-112.6402</longitude>
+          <latitude>47.078</latitude>
+        </point>
+        <point>
+          <longitude>-114.259</longitude>
+          <latitude>44.7128</latitude>
+        </point>
+        <point>
+          <longitude>-117.376</longitude>
+          <latitude>44.9664</latitude>
+        </point>
+        <point>
+          <longitude>-117.3422</longitude>
+          <latitude>48.0244</latitude>
+        </point>
+        <point>
+          <longitude>-120.1204</longitude>
+          <latitude>47.8479</latitude>
+        </point>
+        <point>
+          <longitude>-119.9766</longitude>
+          <latitude>49.113</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS43 KKCI 240845 
+CHIS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...KY TN 
+FROM HNN TO HMV TO GQO TO 50WSW LOZ TO HNN 
+MTNS OBSC BY CLDS/BR. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="5">
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-85.0828</longitude>
+          <latitude>36.7064</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS46 KKCI 240845 
+SFOS WA 240845 
+AIRMET SIERRA UPDT 2 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...OR CA AND CSTL WTRS 
+FROM 40N ONP TO 60W OED TO 30NE FOT TO 40S FOT TO 30WNW RZS TO 
+20NNE LAX TO 30SSW MZB TO 230SSW RZS TO 140WSW FOT TO 150WNW FOT 
+TO 40N ONP 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS CONTG BYD 15Z ENDG 15-18Z. 
+OTLK VALID 1500-2100Z...MTN OBSCN WA OR ID MT WY 
+BOUNDED BY 40SW YQL-SHR-20WSW LKT-30NE BKE-20NNE GEG-30NW EPH- 
+30SSE YDC-40SW YQL 
+MTNS OBSC BY FU/HZ. CONDS CONTG THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="11">
+        <point>
+          <longitude>-124.06</longitude>
+          <latitude>45.2448</latitude>
+        </point>
+        <point>
+          <longitude>-124.2619</longitude>
+          <latitude>42.4721</latitude>
+        </point>
+        <point>
+          <longitude>-123.7585</longitude>
+          <latitude>41.0248</latitude>
+        </point>
+        <point>
+          <longitude>-124.23</longitude>
+          <latitude>40.0052</latitude>
+        </point>
+        <point>
+          <longitude>-120.3353</longitude>
+          <latitude>34.7012</latitude>
+        </point>
+        <point>
+          <longitude>-118.2761</longitude>
+          <latitude>34.237</latitude>
+        </point>
+        <point>
+          <longitude>-117.4578</longitude>
+          <latitude>32.315</latitude>
+        </point>
+        <point>
+          <longitude>-121.4768</longitude>
+          <latitude>30.9625</latitude>
+        </point>
+        <point>
+          <longitude>-127.026</longitude>
+          <latitude>39.7457</latitude>
+        </point>
+        <point>
+          <longitude>-127.3151</longitude>
+          <latitude>41.5849</latitude>
+        </point>
+        <point>
+          <longitude>-124.06</longitude>
+          <latitude>45.2448</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS44 KKCI 240845 
+DFWS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...TN MS AL KY 
+FROM 50S HNN TO HMV TO GQO TO 30SSE LGC TO 30SE MEI TO 40E SQS 
+TO 50WSW MSL TO 50NW MSL TO 50S HNN 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="9">
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>37.9146</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-84.9815</longitude>
+          <latitude>32.585</latitude>
+        </point>
+        <point>
+          <longitude>-88.3804</longitude>
+          <latitude>32.0236</latitude>
+        </point>
+        <point>
+          <longitude>-89.4832</longitude>
+          <latitude>33.4575</latitude>
+        </point>
+        <point>
+          <longitude>-88.4152</longitude>
+          <latitude>34.3767</latitude>
+        </point>
+        <point>
+          <longitude>-88.2037</longitude>
+          <latitude>35.2886</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>37.9146</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS44 KKCI 240845 
+DFWS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...TN MS AL KY 
+FROM 50S HNN TO HMV TO GQO TO 30SSE LGC TO 30SE MEI TO 40E SQS 
+TO 50WSW MSL TO 50NW MSL TO 50S HNN 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="9">
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>37.9146</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-84.9815</longitude>
+          <latitude>32.585</latitude>
+        </point>
+        <point>
+          <longitude>-88.3804</longitude>
+          <latitude>32.0236</latitude>
+        </point>
+        <point>
+          <longitude>-89.4832</longitude>
+          <latitude>33.4575</latitude>
+        </point>
+        <point>
+          <longitude>-88.4152</longitude>
+          <latitude>34.3767</latitude>
+        </point>
+        <point>
+          <longitude>-88.2037</longitude>
+          <latitude>35.2886</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>37.9146</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WSUS32 KKCI 241055 
+SIGC  
+CONVECTIVE SIGMET...NONE 
+ 
+OUTLOOK VALID 241255-241655 
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.</raw_text>
+      <valid_time_from>2015-08-24T10:55:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T12:55:00Z</valid_time_to>
+      <hazard type="CONVECTIVE" severity="NONE" />
+      <airsigmet_type>SIGMET</airsigmet_type>
+      <area num_points="104">
+        <point>
+          <longitude>-107.0</longitude>
+          <latitude>49.0</latitude>
+        </point>
+        <point>
+          <longitude>-107.0</longitude>
+          <latitude>31.79</latitude>
+        </point>
+        <point>
+          <longitude>-106.52</longitude>
+          <latitude>31.78</latitude>
+        </point>
+        <point>
+          <longitude>-106.48</longitude>
+          <latitude>31.75</latitude>
+        </point>
+        <point>
+          <longitude>-106.38</longitude>
+          <latitude>31.75</latitude>
+        </point>
+        <point>
+          <longitude>-106.22</longitude>
+          <latitude>31.48</latitude>
+        </point>
+        <point>
+          <longitude>-106.0</longitude>
+          <latitude>31.4</latitude>
+        </point>
+        <point>
+          <longitude>-105.73</longitude>
+          <latitude>31.16</latitude>
+        </point>
+        <point>
+          <longitude>-105.45</longitude>
+          <latitude>30.92</latitude>
+        </point>
+        <point>
+          <longitude>-105.11</longitude>
+          <latitude>30.75</latitude>
+        </point>
+        <point>
+          <longitude>-104.95</longitude>
+          <latitude>30.67</latitude>
+        </point>
+        <point>
+          <longitude>-104.85</longitude>
+          <latitude>30.39</latitude>
+        </point>
+        <point>
+          <longitude>-104.69</longitude>
+          <latitude>30.19</latitude>
+        </point>
+        <point>
+          <longitude>-104.69</longitude>
+          <latitude>30.01</latitude>
+        </point>
+        <point>
+          <longitude>-104.59</longitude>
+          <latitude>29.79</latitude>
+        </point>
+        <point>
+          <longitude>-104.51</longitude>
+          <latitude>29.63</latitude>
+        </point>
+        <point>
+          <longitude>-104.37</longitude>
+          <latitude>29.53</latitude>
+        </point>
+        <point>
+          <longitude>-104.2</longitude>
+          <latitude>29.49</latitude>
+        </point>
+        <point>
+          <longitude>-104.14</longitude>
+          <latitude>29.39</latitude>
+        </point>
+        <point>
+          <longitude>-103.99</longitude>
+          <latitude>29.33</latitude>
+        </point>
+        <point>
+          <longitude>-103.75</longitude>
+          <latitude>29.26</latitude>
+        </point>
+        <point>
+          <longitude>-103.67</longitude>
+          <latitude>29.17</latitude>
+        </point>
+        <point>
+          <longitude>-103.55</longitude>
+          <latitude>29.16</latitude>
+        </point>
+        <point>
+          <longitude>-103.45</longitude>
+          <latitude>29.07</latitude>
+        </point>
+        <point>
+          <longitude>-103.12</longitude>
+          <latitude>28.97</latitude>
+        </point>
+        <point>
+          <longitude>-102.97</longitude>
+          <latitude>29.19</latitude>
+        </point>
+        <point>
+          <longitude>-102.88</longitude>
+          <latitude>29.21</latitude>
+        </point>
+        <point>
+          <longitude>-102.91</longitude>
+          <latitude>29.35</latitude>
+        </point>
+        <point>
+          <longitude>-102.82</longitude>
+          <latitude>29.42</latitude>
+        </point>
+        <point>
+          <longitude>-102.67</longitude>
+          <latitude>29.74</latitude>
+        </point>
+        <point>
+          <longitude>-102.4</longitude>
+          <latitude>29.78</latitude>
+        </point>
+        <point>
+          <longitude>-102.31</longitude>
+          <latitude>29.87</latitude>
+        </point>
+        <point>
+          <longitude>-102.17</longitude>
+          <latitude>29.84</latitude>
+        </point>
+        <point>
+          <longitude>-102.09</longitude>
+          <latitude>29.79</latitude>
+        </point>
+        <point>
+          <longitude>-101.81</longitude>
+          <latitude>29.79</latitude>
+        </point>
+        <point>
+          <longitude>-101.52</longitude>
+          <latitude>29.79</latitude>
+        </point>
+        <point>
+          <longitude>-101.27</longitude>
+          <latitude>29.6</latitude>
+        </point>
+        <point>
+          <longitude>-101.02</longitude>
+          <latitude>29.41</latitude>
+        </point>
+        <point>
+          <longitude>-100.74</longitude>
+          <latitude>29.15</latitude>
+        </point>
+        <point>
+          <longitude>-100.6</longitude>
+          <latitude>28.87</latitude>
+        </point>
+        <point>
+          <longitude>-100.19</longitude>
+          <latitude>28.18</latitude>
+        </point>
+        <point>
+          <longitude>-100.05</longitude>
+          <latitude>28.13</latitude>
+        </point>
+        <point>
+          <longitude>-99.93</longitude>
+          <latitude>27.96</latitude>
+        </point>
+        <point>
+          <longitude>-99.83</longitude>
+          <latitude>27.76</latitude>
+        </point>
+        <point>
+          <longitude>-99.7</longitude>
+          <latitude>27.66</latitude>
+        </point>
+        <point>
+          <longitude>-99.54</longitude>
+          <latitude>27.6</latitude>
+        </point>
+        <point>
+          <longitude>-99.48</longitude>
+          <latitude>27.47</latitude>
+        </point>
+        <point>
+          <longitude>-99.49</longitude>
+          <latitude>27.32</latitude>
+        </point>
+        <point>
+          <longitude>-99.43</longitude>
+          <latitude>27.19</latitude>
+        </point>
+        <point>
+          <longitude>-99.44</longitude>
+          <latitude>27.1</latitude>
+        </point>
+        <point>
+          <longitude>-99.28</longitude>
+          <latitude>26.85</latitude>
+        </point>
+        <point>
+          <longitude>-99.09</longitude>
+          <latitude>26.41</latitude>
+        </point>
+        <point>
+          <longitude>-98.8</longitude>
+          <latitude>26.35</latitude>
+        </point>
+        <point>
+          <longitude>-98.65</longitude>
+          <latitude>26.23</latitude>
+        </point>
+        <point>
+          <longitude>-98.46</longitude>
+          <latitude>26.22</latitude>
+        </point>
+        <point>
+          <longitude>-98.18</longitude>
+          <latitude>26.06</latitude>
+        </point>
+        <point>
+          <longitude>-97.65</longitude>
+          <latitude>26.03</latitude>
+        </point>
+        <point>
+          <longitude>-97.37</longitude>
+          <latitude>25.83</latitude>
+        </point>
+        <point>
+          <longitude>-97.33</longitude>
+          <latitude>25.92</latitude>
+        </point>
+        <point>
+          <longitude>-97.24</longitude>
+          <latitude>25.95</latitude>
+        </point>
+        <point>
+          <longitude>-97.13</longitude>
+          <latitude>25.97</latitude>
+        </point>
+        <point>
+          <longitude>-97.0</longitude>
+          <latitude>25.99</latitude>
+        </point>
+        <point>
+          <longitude>-95.91</longitude>
+          <latitude>25.99</latitude>
+        </point>
+        <point>
+          <longitude>-95.15</longitude>
+          <latitude>27.55</latitude>
+        </point>
+        <point>
+          <longitude>-93.98</longitude>
+          <latitude>28.24</latitude>
+        </point>
+        <point>
+          <longitude>-91.02</longitude>
+          <latitude>28.24</latitude>
+        </point>
+        <point>
+          <longitude>-88.97</longitude>
+          <latitude>28.24</latitude>
+        </point>
+        <point>
+          <longitude>-88.0</longitude>
+          <latitude>28.13</latitude>
+        </point>
+        <point>
+          <longitude>-87.64</longitude>
+          <latitude>27.48</latitude>
+        </point>
+        <point>
+          <longitude>-87.0</longitude>
+          <latitude>27.48</latitude>
+        </point>
+        <point>
+          <longitude>-87.0</longitude>
+          <latitude>47.62</latitude>
+        </point>
+        <point>
+          <longitude>-88.1</longitude>
+          <latitude>47.87</latitude>
+        </point>
+        <point>
+          <longitude>-89.78</longitude>
+          <latitude>48.03</latitude>
+        </point>
+        <point>
+          <longitude>-89.88</longitude>
+          <latitude>47.98</latitude>
+        </point>
+        <point>
+          <longitude>-90.17</longitude>
+          <latitude>48.13</latitude>
+        </point>
+        <point>
+          <longitude>-90.7</longitude>
+          <latitude>48.09</latitude>
+        </point>
+        <point>
+          <longitude>-90.92</longitude>
+          <latitude>48.23</latitude>
+        </point>
+        <point>
+          <longitude>-91.43</longitude>
+          <latitude>48.02</latitude>
+        </point>
+        <point>
+          <longitude>-91.74</longitude>
+          <latitude>48.2</latitude>
+        </point>
+        <point>
+          <longitude>-91.98</longitude>
+          <latitude>48.25</latitude>
+        </point>
+        <point>
+          <longitude>-92.06</longitude>
+          <latitude>48.35</latitude>
+        </point>
+        <point>
+          <longitude>-92.27</longitude>
+          <latitude>48.34</latitude>
+        </point>
+        <point>
+          <longitude>-92.35</longitude>
+          <latitude>48.23</latitude>
+        </point>
+        <point>
+          <longitude>-92.5</longitude>
+          <latitude>48.44</latitude>
+        </point>
+        <point>
+          <longitude>-92.65</longitude>
+          <latitude>48.45</latitude>
+        </point>
+        <point>
+          <longitude>-92.65</longitude>
+          <latitude>48.54</latitude>
+        </point>
+        <point>
+          <longitude>-92.96</longitude>
+          <latitude>48.62</latitude>
+        </point>
+        <point>
+          <longitude>-93.43</longitude>
+          <latitude>48.61</latitude>
+        </point>
+        <point>
+          <longitude>-93.5</longitude>
+          <latitude>48.53</latitude>
+        </point>
+        <point>
+          <longitude>-93.81</longitude>
+          <latitude>48.52</latitude>
+        </point>
+        <point>
+          <longitude>-93.85</longitude>
+          <latitude>48.63</latitude>
+        </point>
+        <point>
+          <longitude>-93.94</longitude>
+          <latitude>48.65</latitude>
+        </point>
+        <point>
+          <longitude>-94.22</longitude>
+          <latitude>48.65</latitude>
+        </point>
+        <point>
+          <longitude>-94.34</longitude>
+          <latitude>48.72</latitude>
+        </point>
+        <point>
+          <longitude>-94.49</longitude>
+          <latitude>48.71</latitude>
+        </point>
+        <point>
+          <longitude>-94.69</longitude>
+          <latitude>48.78</latitude>
+        </point>
+        <point>
+          <longitude>-94.73</longitude>
+          <latitude>48.99</latitude>
+        </point>
+        <point>
+          <longitude>-94.8</longitude>
+          <latitude>49.18</latitude>
+        </point>
+        <point>
+          <longitude>-94.82</longitude>
+          <latitude>49.32</latitude>
+        </point>
+        <point>
+          <longitude>-94.94</longitude>
+          <latitude>49.37</latitude>
+        </point>
+        <point>
+          <longitude>-95.08</longitude>
+          <latitude>49.37</latitude>
+        </point>
+        <point>
+          <longitude>-95.15</longitude>
+          <latitude>49.38</latitude>
+        </point>
+        <point>
+          <longitude>-95.15</longitude>
+          <latitude>49.0</latitude>
+        </point>
+        <point>
+          <longitude>-107.0</longitude>
+          <latitude>49.0</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WSUS33 KKCI 241055 
+SIGW  
+CONVECTIVE SIGMET...NONE 
+ 
+OUTLOOK VALID 241255-241655 
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.</raw_text>
+      <valid_time_from>2015-08-24T10:55:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T12:55:00Z</valid_time_to>
+      <hazard type="CONVECTIVE" severity="NONE" />
+      <airsigmet_type>SIGMET</airsigmet_type>
+      <area num_points="36">
+        <point>
+          <longitude>-122.77</longitude>
+          <latitude>49.0</latitude>
+        </point>
+        <point>
+          <longitude>-123.12</longitude>
+          <latitude>48.96</latitude>
+        </point>
+        <point>
+          <longitude>-123.02</longitude>
+          <latitude>48.6</latitude>
+        </point>
+        <point>
+          <longitude>-123.16</longitude>
+          <latitude>48.3</latitude>
+        </point>
+        <point>
+          <longitude>-123.69</longitude>
+          <latitude>48.2</latitude>
+        </point>
+        <point>
+          <longitude>-124.35</longitude>
+          <latitude>48.36</latitude>
+        </point>
+        <point>
+          <longitude>-124.73</longitude>
+          <latitude>48.39</latitude>
+        </point>
+        <point>
+          <longitude>-124.72</longitude>
+          <latitude>48.38</latitude>
+        </point>
+        <point>
+          <longitude>-125.0</longitude>
+          <latitude>48.49</latitude>
+        </point>
+        <point>
+          <longitude>-125.96</longitude>
+          <latitude>48.4</latitude>
+        </point>
+        <point>
+          <longitude>-127.03</longitude>
+          <latitude>48.41</latitude>
+        </point>
+        <point>
+          <longitude>-128.01</longitude>
+          <latitude>48.33</latitude>
+        </point>
+        <point>
+          <longitude>-127.49</longitude>
+          <latitude>47.48</latitude>
+        </point>
+        <point>
+          <longitude>-127.01</longitude>
+          <latitude>46.0</latitude>
+        </point>
+        <point>
+          <longitude>-126.52</longitude>
+          <latitude>44.98</latitude>
+        </point>
+        <point>
+          <longitude>-126.51</longitude>
+          <latitude>44.01</latitude>
+        </point>
+        <point>
+          <longitude>-126.72</longitude>
+          <latitude>42.97</latitude>
+        </point>
+        <point>
+          <longitude>-127.0</longitude>
+          <latitude>40.01</latitude>
+        </point>
+        <point>
+          <longitude>-123.01</longitude>
+          <latitude>34.0</latitude>
+        </point>
+        <point>
+          <longitude>-122.01</longitude>
+          <latitude>32.99</latitude>
+        </point>
+        <point>
+          <longitude>-121.66</longitude>
+          <latitude>31.99</latitude>
+        </point>
+        <point>
+          <longitude>-121.01</longitude>
+          <latitude>30.98</latitude>
+        </point>
+        <point>
+          <longitude>-120.65</longitude>
+          <latitude>30.67</latitude>
+        </point>
+        <point>
+          <longitude>-120.0</longitude>
+          <latitude>31.1</latitude>
+        </point>
+        <point>
+          <longitude>-118.97</longitude>
+          <latitude>31.62</latitude>
+        </point>
+        <point>
+          <longitude>-117.1</longitude>
+          <latitude>32.4</latitude>
+        </point>
+        <point>
+          <longitude>-117.09</longitude>
+          <latitude>32.4</latitude>
+        </point>
+        <point>
+          <longitude>-117.12</longitude>
+          <latitude>32.53</latitude>
+        </point>
+        <point>
+          <longitude>-114.72</longitude>
+          <latitude>32.72</latitude>
+        </point>
+        <point>
+          <longitude>-114.81</longitude>
+          <latitude>32.5</latitude>
+        </point>
+        <point>
+          <longitude>-111.08</longitude>
+          <latitude>31.33</latitude>
+        </point>
+        <point>
+          <longitude>-108.2</longitude>
+          <latitude>31.33</latitude>
+        </point>
+        <point>
+          <longitude>-108.2</longitude>
+          <latitude>31.78</latitude>
+        </point>
+        <point>
+          <longitude>-107.0</longitude>
+          <latitude>31.78</latitude>
+        </point>
+        <point>
+          <longitude>-107.0</longitude>
+          <latitude>49.0</latitude>
+        </point>
+        <point>
+          <longitude>-122.77</longitude>
+          <latitude>49.0</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WSUS33 KKCI 241055 
+SIGW  
+CONVECTIVE SIGMET...NONE 
+ 
+OUTLOOK VALID 241255-241655 
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.</raw_text>
+      <valid_time_from>2015-08-24T10:55:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T12:55:00Z</valid_time_to>
+      <hazard type="CONVECTIVE" severity="NONE" />
+      <airsigmet_type>SIGMET</airsigmet_type>
+      <area num_points="36">
+        <point>
+          <longitude>-122.77</longitude>
+          <latitude>49.0</latitude>
+        </point>
+        <point>
+          <longitude>-123.12</longitude>
+          <latitude>48.96</latitude>
+        </point>
+        <point>
+          <longitude>-123.02</longitude>
+          <latitude>48.6</latitude>
+        </point>
+        <point>
+          <longitude>-123.16</longitude>
+          <latitude>48.3</latitude>
+        </point>
+        <point>
+          <longitude>-123.69</longitude>
+          <latitude>48.2</latitude>
+        </point>
+        <point>
+          <longitude>-124.35</longitude>
+          <latitude>48.36</latitude>
+        </point>
+        <point>
+          <longitude>-124.73</longitude>
+          <latitude>48.39</latitude>
+        </point>
+        <point>
+          <longitude>-124.72</longitude>
+          <latitude>48.38</latitude>
+        </point>
+        <point>
+          <longitude>-125.0</longitude>
+          <latitude>48.49</latitude>
+        </point>
+        <point>
+          <longitude>-125.96</longitude>
+          <latitude>48.4</latitude>
+        </point>
+        <point>
+          <longitude>-127.03</longitude>
+          <latitude>48.41</latitude>
+        </point>
+        <point>
+          <longitude>-128.01</longitude>
+          <latitude>48.33</latitude>
+        </point>
+        <point>
+          <longitude>-127.49</longitude>
+          <latitude>47.48</latitude>
+        </point>
+        <point>
+          <longitude>-127.01</longitude>
+          <latitude>46.0</latitude>
+        </point>
+        <point>
+          <longitude>-126.52</longitude>
+          <latitude>44.98</latitude>
+        </point>
+        <point>
+          <longitude>-126.51</longitude>
+          <latitude>44.01</latitude>
+        </point>
+        <point>
+          <longitude>-126.72</longitude>
+          <latitude>42.97</latitude>
+        </point>
+        <point>
+          <longitude>-127.0</longitude>
+          <latitude>40.01</latitude>
+        </point>
+        <point>
+          <longitude>-123.01</longitude>
+          <latitude>34.0</latitude>
+        </point>
+        <point>
+          <longitude>-122.01</longitude>
+          <latitude>32.99</latitude>
+        </point>
+        <point>
+          <longitude>-121.66</longitude>
+          <latitude>31.99</latitude>
+        </point>
+        <point>
+          <longitude>-121.01</longitude>
+          <latitude>30.98</latitude>
+        </point>
+        <point>
+          <longitude>-120.65</longitude>
+          <latitude>30.67</latitude>
+        </point>
+        <point>
+          <longitude>-120.0</longitude>
+          <latitude>31.1</latitude>
+        </point>
+        <point>
+          <longitude>-118.97</longitude>
+          <latitude>31.62</latitude>
+        </point>
+        <point>
+          <longitude>-117.1</longitude>
+          <latitude>32.4</latitude>
+        </point>
+        <point>
+          <longitude>-117.09</longitude>
+          <latitude>32.4</latitude>
+        </point>
+        <point>
+          <longitude>-117.12</longitude>
+          <latitude>32.53</latitude>
+        </point>
+        <point>
+          <longitude>-114.72</longitude>
+          <latitude>32.72</latitude>
+        </point>
+        <point>
+          <longitude>-114.81</longitude>
+          <latitude>32.5</latitude>
+        </point>
+        <point>
+          <longitude>-111.08</longitude>
+          <latitude>31.33</latitude>
+        </point>
+        <point>
+          <longitude>-108.2</longitude>
+          <latitude>31.33</latitude>
+        </point>
+        <point>
+          <longitude>-108.2</longitude>
+          <latitude>31.78</latitude>
+        </point>
+        <point>
+          <longitude>-107.0</longitude>
+          <latitude>31.78</latitude>
+        </point>
+        <point>
+          <longitude>-107.0</longitude>
+          <latitude>49.0</latitude>
+        </point>
+        <point>
+          <longitude>-122.77</longitude>
+          <latitude>49.0</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WSUS31 KKCI 241055 
+SIGE  
+CONVECTIVE SIGMET...NONE 
+ 
+OUTLOOK VALID 241255-241655 
+TS ARE NOT EXPD TO REQUIRE WST ISSUANCES.</raw_text>
+      <valid_time_from>2015-08-24T10:55:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T12:55:00Z</valid_time_to>
+      <hazard type="CONVECTIVE" severity="NONE" />
+      <airsigmet_type>SIGMET</airsigmet_type>
+      <area num_points="84">
+        <point>
+          <longitude>-87.0</longitude>
+          <latitude>27.48</latitude>
+        </point>
+        <point>
+          <longitude>-84.26</longitude>
+          <latitude>27.48</latitude>
+        </point>
+        <point>
+          <longitude>-83.01</longitude>
+          <latitude>24.0</latitude>
+        </point>
+        <point>
+          <longitude>-78.66</longitude>
+          <latitude>24.0</latitude>
+        </point>
+        <point>
+          <longitude>-79.0</longitude>
+          <latitude>24.2</latitude>
+        </point>
+        <point>
+          <longitude>-78.99</longitude>
+          <latitude>27.0</latitude>
+        </point>
+        <point>
+          <longitude>-77.0</longitude>
+          <latitude>27.02</latitude>
+        </point>
+        <point>
+          <longitude>-77.0</longitude>
+          <latitude>33.0</latitude>
+        </point>
+        <point>
+          <longitude>-76.5</longitude>
+          <latitude>32.51</latitude>
+        </point>
+        <point>
+          <longitude>-72.49</longitude>
+          <latitude>35.02</latitude>
+        </point>
+        <point>
+          <longitude>-72.49</longitude>
+          <latitude>37.51</latitude>
+        </point>
+        <point>
+          <longitude>-70.96</longitude>
+          <latitude>37.51</latitude>
+        </point>
+        <point>
+          <longitude>-69.98</longitude>
+          <latitude>38.27</latitude>
+        </point>
+        <point>
+          <longitude>-67.0</longitude>
+          <latitude>38.99</latitude>
+        </point>
+        <point>
+          <longitude>-67.01</longitude>
+          <latitude>44.97</latitude>
+        </point>
+        <point>
+          <longitude>-67.17</longitude>
+          <latitude>45.16</latitude>
+        </point>
+        <point>
+          <longitude>-67.27</longitude>
+          <latitude>45.2</latitude>
+        </point>
+        <point>
+          <longitude>-67.3</longitude>
+          <latitude>45.17</latitude>
+        </point>
+        <point>
+          <longitude>-67.35</longitude>
+          <latitude>45.15</latitude>
+        </point>
+        <point>
+          <longitude>-67.47</longitude>
+          <latitude>45.26</latitude>
+        </point>
+        <point>
+          <longitude>-67.42</longitude>
+          <latitude>45.4</latitude>
+        </point>
+        <point>
+          <longitude>-67.49</longitude>
+          <latitude>45.47</latitude>
+        </point>
+        <point>
+          <longitude>-67.41</longitude>
+          <latitude>45.6</latitude>
+        </point>
+        <point>
+          <longitude>-67.54</longitude>
+          <latitude>45.6</latitude>
+        </point>
+        <point>
+          <longitude>-67.75</longitude>
+          <latitude>45.68</latitude>
+        </point>
+        <point>
+          <longitude>-67.78</longitude>
+          <latitude>45.86</latitude>
+        </point>
+        <point>
+          <longitude>-67.78</longitude>
+          <latitude>47.06</latitude>
+        </point>
+        <point>
+          <longitude>-68.28</longitude>
+          <latitude>47.37</latitude>
+        </point>
+        <point>
+          <longitude>-68.44</longitude>
+          <latitude>47.3</latitude>
+        </point>
+        <point>
+          <longitude>-68.86</longitude>
+          <latitude>47.19</latitude>
+        </point>
+        <point>
+          <longitude>-69.02</longitude>
+          <latitude>47.26</latitude>
+        </point>
+        <point>
+          <longitude>-69.02</longitude>
+          <latitude>47.44</latitude>
+        </point>
+        <point>
+          <longitude>-69.2</longitude>
+          <latitude>47.48</latitude>
+        </point>
+        <point>
+          <longitude>-69.97</longitude>
+          <latitude>46.72</latitude>
+        </point>
+        <point>
+          <longitude>-70.02</longitude>
+          <latitude>46.45</latitude>
+        </point>
+        <point>
+          <longitude>-70.02</longitude>
+          <latitude>46.47</latitude>
+        </point>
+        <point>
+          <longitude>-70.24</longitude>
+          <latitude>46.29</latitude>
+        </point>
+        <point>
+          <longitude>-70.24</longitude>
+          <latitude>46.11</latitude>
+        </point>
+        <point>
+          <longitude>-70.31</longitude>
+          <latitude>46.02</latitude>
+        </point>
+        <point>
+          <longitude>-70.24</longitude>
+          <latitude>45.93</latitude>
+        </point>
+        <point>
+          <longitude>-70.35</longitude>
+          <latitude>45.78</latitude>
+        </point>
+        <point>
+          <longitude>-70.72</longitude>
+          <latitude>45.55</latitude>
+        </point>
+        <point>
+          <longitude>-70.63</longitude>
+          <latitude>45.44</latitude>
+        </point>
+        <point>
+          <longitude>-70.79</longitude>
+          <latitude>45.41</latitude>
+        </point>
+        <point>
+          <longitude>-70.85</longitude>
+          <latitude>45.26</latitude>
+        </point>
+        <point>
+          <longitude>-70.94</longitude>
+          <latitude>45.34</latitude>
+        </point>
+        <point>
+          <longitude>-71.13</longitude>
+          <latitude>45.24</latitude>
+        </point>
+        <point>
+          <longitude>-71.31</longitude>
+          <latitude>45.29</latitude>
+        </point>
+        <point>
+          <longitude>-71.55</longitude>
+          <latitude>45.0</latitude>
+        </point>
+        <point>
+          <longitude>-74.87</longitude>
+          <latitude>44.98</latitude>
+        </point>
+        <point>
+          <longitude>-76.29</longitude>
+          <latitude>44.22</latitude>
+        </point>
+        <point>
+          <longitude>-76.87</longitude>
+          <latitude>43.68</latitude>
+        </point>
+        <point>
+          <longitude>-78.2</longitude>
+          <latitude>43.61</latitude>
+        </point>
+        <point>
+          <longitude>-78.85</longitude>
+          <latitude>43.57</latitude>
+        </point>
+        <point>
+          <longitude>-79.07</longitude>
+          <latitude>43.23</latitude>
+        </point>
+        <point>
+          <longitude>-79.03</longitude>
+          <latitude>43.04</latitude>
+        </point>
+        <point>
+          <longitude>-78.87</longitude>
+          <latitude>42.89</latitude>
+        </point>
+        <point>
+          <longitude>-79.92</longitude>
+          <latitude>42.5</latitude>
+        </point>
+        <point>
+          <longitude>-81.98</longitude>
+          <latitude>41.89</latitude>
+        </point>
+        <point>
+          <longitude>-82.66</longitude>
+          <latitude>41.76</latitude>
+        </point>
+        <point>
+          <longitude>-83.48</longitude>
+          <latitude>41.73</latitude>
+        </point>
+        <point>
+          <longitude>-83.43</longitude>
+          <latitude>41.78</latitude>
+        </point>
+        <point>
+          <longitude>-83.4</longitude>
+          <latitude>41.85</latitude>
+        </point>
+        <point>
+          <longitude>-83.33</longitude>
+          <latitude>41.88</latitude>
+        </point>
+        <point>
+          <longitude>-83.31</longitude>
+          <latitude>41.95</latitude>
+        </point>
+        <point>
+          <longitude>-83.26</longitude>
+          <latitude>41.93</latitude>
+        </point>
+        <point>
+          <longitude>-83.19</longitude>
+          <latitude>42.01</latitude>
+        </point>
+        <point>
+          <longitude>-83.14</longitude>
+          <latitude>42.12</latitude>
+        </point>
+        <point>
+          <longitude>-83.13</longitude>
+          <latitude>42.22</latitude>
+        </point>
+        <point>
+          <longitude>-83.04</longitude>
+          <latitude>42.32</latitude>
+        </point>
+        <point>
+          <longitude>-82.81</longitude>
+          <latitude>42.42</latitude>
+        </point>
+        <point>
+          <longitude>-82.68</longitude>
+          <latitude>42.5</latitude>
+        </point>
+        <point>
+          <longitude>-82.63</longitude>
+          <latitude>42.55</latitude>
+        </point>
+        <point>
+          <longitude>-82.51</longitude>
+          <latitude>42.62</latitude>
+        </point>
+        <point>
+          <longitude>-82.47</longitude>
+          <latitude>42.83</latitude>
+        </point>
+        <point>
+          <longitude>-82.41</longitude>
+          <latitude>43.01</latitude>
+        </point>
+        <point>
+          <longitude>-82.29</longitude>
+          <latitude>43.16</latitude>
+        </point>
+        <point>
+          <longitude>-82.14</longitude>
+          <latitude>43.96</latitude>
+        </point>
+        <point>
+          <longitude>-82.39</longitude>
+          <latitude>44.93</latitude>
+        </point>
+        <point>
+          <longitude>-83.34</longitude>
+          <latitude>45.76</latitude>
+        </point>
+        <point>
+          <longitude>-85.08</longitude>
+          <latitude>46.96</latitude>
+        </point>
+        <point>
+          <longitude>-86.44</longitude>
+          <latitude>47.49</latitude>
+        </point>
+        <point>
+          <longitude>-87.0</longitude>
+          <latitude>47.62</latitude>
+        </point>
+        <point>
+          <longitude>-87.0</longitude>
+          <latitude>27.48</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS43 KKCI 240845 
+CHIZ WA 240845 
+AIRMET ZULU UPDT 1 FOR ICE AND FRZLVL VALID UNTIL 241500 
+AIRMET ICE...MN WI LM LS MI 
+FROM 70SE YWG TO 30N INL TO YQT TO SSM TO 30ENE GRB TO 50NNE EAU 
+TO 30NNE BRD TO 70SE YWG 
+MOD ICE BTN FRZLVL AND 150. FRZLVL 050-070. CONDS CONTG BYD 15Z 
+THRU 21Z. 
+OTLK VALID 1500-2100Z...ICE MN WI LM LS MI LH 
+BOUNDED BY 80WNW YQT-YQT-SSM-30NW YVV-40WSW ASP-20SSW GRB-60W 
+RHI-80WNW YQT 
+MOD ICE BTN FRZLVL AND 150. FRZLVL 050-080. CONDS CONTG THRU 21Z. 
+FRZLVL...RANGING FROM 060-160 ACRS AREA 
+ MULT FRZLVL 070-100 BOUNDED BY 30N INL-50N DLH-20NNE RHI-50N 
+ DLL-20E MSP-30NNE FAR-70WNW INL-30N INL 
+ 080 ALG 50SSE YWG-20E BRD-50WSW SSM-50NW SSM-20N SAW-40WSW 
+ YQT-40WNW YQT 
+ 120 ALG 40NNW MOT-50NW RWF-30SSE ODI-30NE GRR-30N ECK-20SSW 
+ YVV</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="5000" max_ft_msl="15000" />
+      <hazard type="ICE" severity="MOD" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-95.9696</longitude>
+          <latitude>49.0673</latitude>
+        </point>
+        <point>
+          <longitude>-93.4</longitude>
+          <latitude>49.0731</latitude>
+        </point>
+        <point>
+          <longitude>-89.32</longitude>
+          <latitude>48.37</latitude>
+        </point>
+        <point>
+          <longitude>-84.31</longitude>
+          <latitude>46.41</latitude>
+        </point>
+        <point>
+          <longitude>-87.5356</longitude>
+          <latitude>44.7506</latitude>
+        </point>
+        <point>
+          <longitude>-91.0225</longitude>
+          <latitude>45.6709</latitude>
+        </point>
+        <point>
+          <longitude>-93.7487</longitude>
+          <latitude>46.8144</latitude>
+        </point>
+        <point>
+          <longitude>-95.9696</longitude>
+          <latitude>49.0673</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS43 KKCI 240845 
+CHIT WA 240845 
+AIRMET TANGO UPDT 1 FOR TURB VALID UNTIL 241500 
+AIRMET TURB...ND MN IA WI LM LS MI 
+FROM 50SSW YWG TO 30N INL TO YQT TO 60SSW SAW TO 30NE BAE TO 
+20NW IOW TO 60S FAR TO 50SSW YWG 
+MOD TURB BLW 120. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="12000" />
+      <hazard type="TURB" severity="MOD" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-97.7186</longitude>
+          <latitude>49.1271</latitude>
+        </point>
+        <point>
+          <longitude>-93.4</longitude>
+          <latitude>49.0731</latitude>
+        </point>
+        <point>
+          <longitude>-89.32</longitude>
+          <latitude>48.37</latitude>
+        </point>
+        <point>
+          <longitude>-87.9438</longitude>
+          <latitude>45.4375</latitude>
+        </point>
+        <point>
+          <longitude>-87.7898</longitude>
+          <latitude>43.4747</latitude>
+        </point>
+        <point>
+          <longitude>-91.925</longitude>
+          <latitude>41.7546</latitude>
+        </point>
+        <point>
+          <longitude>-96.85</longitude>
+          <latitude>45.7529</latitude>
+        </point>
+        <point>
+          <longitude>-97.7186</longitude>
+          <latitude>49.1271</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS43 KKCI 240845 
+CHIT WA 240845 
+AIRMET TANGO UPDT 1 FOR TURB VALID UNTIL 241500 
+AIRMET TURB...ND MN IA WI LM LS MI 
+FROM 50SSW YWG TO 30N INL TO YQT TO 60SSW SAW TO 30NE BAE TO 
+20NW IOW TO 60S FAR TO 50SSW YWG 
+MOD TURB BLW 120. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="12000" />
+      <hazard type="TURB" severity="MOD" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-97.7186</longitude>
+          <latitude>49.1271</latitude>
+        </point>
+        <point>
+          <longitude>-93.4</longitude>
+          <latitude>49.0731</latitude>
+        </point>
+        <point>
+          <longitude>-89.32</longitude>
+          <latitude>48.37</latitude>
+        </point>
+        <point>
+          <longitude>-87.9438</longitude>
+          <latitude>45.4375</latitude>
+        </point>
+        <point>
+          <longitude>-87.7898</longitude>
+          <latitude>43.4747</latitude>
+        </point>
+        <point>
+          <longitude>-91.925</longitude>
+          <latitude>41.7546</latitude>
+        </point>
+        <point>
+          <longitude>-96.85</longitude>
+          <latitude>45.7529</latitude>
+        </point>
+        <point>
+          <longitude>-97.7186</longitude>
+          <latitude>49.1271</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...WV MD VA NC SC GA FL AND CSTL WTRS 
+FROM 30SSE AIR TO 30N CSN TO 20NNW GSO TO 20E CLT TO 20NNW FLO 
+TO 20SSE CRG TO 30SSE CTY TO 50SW PZD TO 30SSE LGC TO GQO TO HMV 
+TO HNN TO 30SSE AIR 
+CIG BLW 010/VIS BLW 3SM BR. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="13">
+        <point>
+          <longitude>-80.5703</longitude>
+          <latitude>39.555</latitude>
+        </point>
+        <point>
+          <longitude>-77.87</longitude>
+          <latitude>39.1431</latitude>
+        </point>
+        <point>
+          <longitude>-80.1379</longitude>
+          <latitude>36.357</latitude>
+        </point>
+        <point>
+          <longitude>-80.5231</longitude>
+          <latitude>35.2193</latitude>
+        </point>
+        <point>
+          <longitude>-79.8144</longitude>
+          <latitude>34.537</latitude>
+        </point>
+        <point>
+          <longitude>-81.3631</longitude>
+          <latitude>30.0328</latitude>
+        </point>
+        <point>
+          <longitude>-82.8296</longitude>
+          <latitude>29.1351</latitude>
+        </point>
+        <point>
+          <longitude>-84.9797</longitude>
+          <latitude>31.0674</latitude>
+        </point>
+        <point>
+          <longitude>-84.9815</longitude>
+          <latitude>32.585</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-80.5703</longitude>
+          <latitude>39.555</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...WV MD VA NC SC GA FL AND CSTL WTRS 
+FROM 30SSE AIR TO 30N CSN TO 20NNW GSO TO 20E CLT TO 20NNW FLO 
+TO 20SSE CRG TO 30SSE CTY TO 50SW PZD TO 30SSE LGC TO GQO TO HMV 
+TO HNN TO 30SSE AIR 
+CIG BLW 010/VIS BLW 3SM BR. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="13">
+        <point>
+          <longitude>-80.5703</longitude>
+          <latitude>39.555</latitude>
+        </point>
+        <point>
+          <longitude>-77.87</longitude>
+          <latitude>39.1431</latitude>
+        </point>
+        <point>
+          <longitude>-80.1379</longitude>
+          <latitude>36.357</latitude>
+        </point>
+        <point>
+          <longitude>-80.5231</longitude>
+          <latitude>35.2193</latitude>
+        </point>
+        <point>
+          <longitude>-79.8144</longitude>
+          <latitude>34.537</latitude>
+        </point>
+        <point>
+          <longitude>-81.3631</longitude>
+          <latitude>30.0328</latitude>
+        </point>
+        <point>
+          <longitude>-82.8296</longitude>
+          <latitude>29.1351</latitude>
+        </point>
+        <point>
+          <longitude>-84.9797</longitude>
+          <latitude>31.0674</latitude>
+        </point>
+        <point>
+          <longitude>-84.9815</longitude>
+          <latitude>32.585</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-80.5703</longitude>
+          <latitude>39.555</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS42 KKCI 240845 
+MIAS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...NC SC GA WV VA 
+FROM 30NW EKN TO 30WNW DCA TO SPA TO ATL TO GQO TO HMV TO HNN TO 
+30NW EKN 
+MTNS OBSC BY CLDS/BR. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-80.5595</longitude>
+          <latitude>39.2748</latitude>
+        </point>
+        <point>
+          <longitude>-77.6385</longitude>
+          <latitude>39.051</latitude>
+        </point>
+        <point>
+          <longitude>-81.93</longitude>
+          <latitude>35.03</latitude>
+        </point>
+        <point>
+          <longitude>-84.44</longitude>
+          <latitude>33.63</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-80.5595</longitude>
+          <latitude>39.2748</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS42 KKCI 240845 
+MIAS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...NC SC GA FL WV MD VA AND CSTL WTRS 
+FROM 30SSE AIR TO 30N CSN TO 20NNW GSO TO 20E CLT TO 20NNW FLO 
+TO 20SSE CRG TO 30SSE CTY TO 50SW PZD TO 30SSE LGC TO GQO TO HMV 
+TO HNN TO 30SSE AIR 
+CIG BLW 010/VIS BLW 3SM BR. CONDS ENDG 12-15Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="13">
+        <point>
+          <longitude>-80.5703</longitude>
+          <latitude>39.555</latitude>
+        </point>
+        <point>
+          <longitude>-77.87</longitude>
+          <latitude>39.1431</latitude>
+        </point>
+        <point>
+          <longitude>-80.1379</longitude>
+          <latitude>36.357</latitude>
+        </point>
+        <point>
+          <longitude>-80.5231</longitude>
+          <latitude>35.2193</latitude>
+        </point>
+        <point>
+          <longitude>-79.8144</longitude>
+          <latitude>34.537</latitude>
+        </point>
+        <point>
+          <longitude>-81.3631</longitude>
+          <latitude>30.0328</latitude>
+        </point>
+        <point>
+          <longitude>-82.8296</longitude>
+          <latitude>29.1351</latitude>
+        </point>
+        <point>
+          <longitude>-84.9797</longitude>
+          <latitude>31.0674</latitude>
+        </point>
+        <point>
+          <longitude>-84.9815</longitude>
+          <latitude>32.585</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-80.5703</longitude>
+          <latitude>39.555</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...WV VA NC SC GA 
+FROM 30NW EKN TO 30WNW DCA TO SPA TO ATL TO GQO TO HMV TO HNN TO 
+30NW EKN 
+MTNS OBSC BY CLDS/BR. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-80.5595</longitude>
+          <latitude>39.2748</latitude>
+        </point>
+        <point>
+          <longitude>-77.6385</longitude>
+          <latitude>39.051</latitude>
+        </point>
+        <point>
+          <longitude>-81.93</longitude>
+          <latitude>35.03</latitude>
+        </point>
+        <point>
+          <longitude>-84.44</longitude>
+          <latitude>33.63</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-80.5595</longitude>
+          <latitude>39.2748</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...WV VA NC SC GA 
+FROM 30NW EKN TO 30WNW DCA TO SPA TO ATL TO GQO TO HMV TO HNN TO 
+30NW EKN 
+MTNS OBSC BY CLDS/BR. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="8">
+        <point>
+          <longitude>-80.5595</longitude>
+          <latitude>39.2748</latitude>
+        </point>
+        <point>
+          <longitude>-77.6385</longitude>
+          <latitude>39.051</latitude>
+        </point>
+        <point>
+          <longitude>-81.93</longitude>
+          <latitude>35.03</latitude>
+        </point>
+        <point>
+          <longitude>-84.44</longitude>
+          <latitude>33.63</latitude>
+        </point>
+        <point>
+          <longitude>-85.15</longitude>
+          <latitude>34.96</latitude>
+        </point>
+        <point>
+          <longitude>-82.13</longitude>
+          <latitude>36.44</latitude>
+        </point>
+        <point>
+          <longitude>-82.03</longitude>
+          <latitude>38.75</latitude>
+        </point>
+        <point>
+          <longitude>-80.5595</longitude>
+          <latitude>39.2748</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...ME NH VT 
+FROM 70NW PQI TO MLT TO CON TO 40ENE ALB TO 20NNE PLB TO YSC TO 
+70NW PQI 
+MTNS OBSC BY CLDS/BR. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="7">
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+        <point>
+          <longitude>-68.52</longitude>
+          <latitude>45.58</latitude>
+        </point>
+        <point>
+          <longitude>-71.58</longitude>
+          <latitude>43.22</latitude>
+        </point>
+        <point>
+          <longitude>-72.9602</longitude>
+          <latitude>43.0013</latitude>
+        </point>
+        <point>
+          <longitude>-73.3401</longitude>
+          <latitude>44.9969</latitude>
+        </point>
+        <point>
+          <longitude>-71.68</longitude>
+          <latitude>45.43</latitude>
+        </point>
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET MTN OBSCN...ME NH VT 
+FROM 70NW PQI TO MLT TO CON TO 40ENE ALB TO 20NNE PLB TO YSC TO 
+70NW PQI 
+MTNS OBSC BY CLDS/BR. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <hazard type="MTN OBSCN" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="7">
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+        <point>
+          <longitude>-68.52</longitude>
+          <latitude>45.58</latitude>
+        </point>
+        <point>
+          <longitude>-71.58</longitude>
+          <latitude>43.22</latitude>
+        </point>
+        <point>
+          <longitude>-72.9602</longitude>
+          <latitude>43.0013</latitude>
+        </point>
+        <point>
+          <longitude>-73.3401</longitude>
+          <latitude>44.9969</latitude>
+        </point>
+        <point>
+          <longitude>-71.68</longitude>
+          <latitude>45.43</latitude>
+        </point>
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...ME NH VT MA RI CT NY NJ PA AND CSTL WTRS 
+FROM 70NW PQI TO 40NNE PQI TO 50WSW YSJ TO 140ENE ACK TO 100ESE 
+ACK TO 20SW CYN TO SAX TO 40WSW BDL TO 40N ALB TO 40W YSC TO YSC 
+TO 70NW PQI 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="12">
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+        <point>
+          <longitude>-67.7143</longitude>
+          <latitude>47.3835</latitude>
+        </point>
+        <point>
+          <longitude>-66.9715</longitude>
+          <latitude>44.9951</latitude>
+        </point>
+        <point>
+          <longitude>-67.131</longitude>
+          <latitude>42.1343</latitude>
+        </point>
+        <point>
+          <longitude>-68.0069</longitude>
+          <latitude>40.6262</latitude>
+        </point>
+        <point>
+          <longitude>-74.735</longitude>
+          <latitude>39.5846</latitude>
+        </point>
+        <point>
+          <longitude>-74.54</longitude>
+          <latitude>41.07</latitude>
+        </point>
+        <point>
+          <longitude>-73.5123</longitude>
+          <latitude>41.6827</latitude>
+        </point>
+        <point>
+          <longitude>-73.8</longitude>
+          <latitude>43.4148</latitude>
+        </point>
+        <point>
+          <longitude>-72.6272</longitude>
+          <latitude>45.4261</latitude>
+        </point>
+        <point>
+          <longitude>-71.68</longitude>
+          <latitude>45.43</latitude>
+        </point>
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+    <AIRSIGMET>
+      <raw_text>WAUS41 KKCI 240845 
+BOSS WA 240845 
+AIRMET SIERRA UPDT 1 FOR IFR AND MTN OBSCN VALID UNTIL 241500 
+AIRMET IFR...ME NH VT MA RI CT NY NJ PA AND CSTL WTRS 
+FROM 70NW PQI TO 40NNE PQI TO 50WSW YSJ TO 140ENE ACK TO 100ESE 
+ACK TO 20SW CYN TO SAX TO 40WSW BDL TO 40N ALB TO 40W YSC TO YSC 
+TO 70NW PQI 
+CIG BLW 010/VIS BLW 3SM BR/FG. CONDS CONTG BYD 15Z THRU 21Z.</raw_text>
+      <valid_time_from>2015-08-24T08:45:00Z</valid_time_from>
+      <valid_time_to>2015-08-24T15:00:00Z</valid_time_to>
+      <altitude min_ft_msl="0" max_ft_msl="1000" />
+      <hazard type="IFR" />
+      <airsigmet_type>AIRMET</airsigmet_type>
+      <area num_points="12">
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+        <point>
+          <longitude>-67.7143</longitude>
+          <latitude>47.3835</latitude>
+        </point>
+        <point>
+          <longitude>-66.9715</longitude>
+          <latitude>44.9951</latitude>
+        </point>
+        <point>
+          <longitude>-67.131</longitude>
+          <latitude>42.1343</latitude>
+        </point>
+        <point>
+          <longitude>-68.0069</longitude>
+          <latitude>40.6262</latitude>
+        </point>
+        <point>
+          <longitude>-74.735</longitude>
+          <latitude>39.5846</latitude>
+        </point>
+        <point>
+          <longitude>-74.54</longitude>
+          <latitude>41.07</latitude>
+        </point>
+        <point>
+          <longitude>-73.5123</longitude>
+          <latitude>41.6827</latitude>
+        </point>
+        <point>
+          <longitude>-73.8</longitude>
+          <latitude>43.4148</latitude>
+        </point>
+        <point>
+          <longitude>-72.6272</longitude>
+          <latitude>45.4261</latitude>
+        </point>
+        <point>
+          <longitude>-71.68</longitude>
+          <latitude>45.43</latitude>
+        </point>
+        <point>
+          <longitude>-69.3144</longitude>
+          <latitude>47.5893</latitude>
+        </point>
+      </area>
+    </AIRSIGMET>
+  </data>
+</response>
+

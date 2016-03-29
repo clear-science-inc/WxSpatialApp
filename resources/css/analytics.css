@@ -1,0 +1,131 @@
+/**
+ * Copyright 2014 General Dynamics Information Technology.
+ */
+
+#analyticsBubble .bubble {
+    right: -40px;
+}
+
+#analyticsTable button {
+    width: 60px;
+    height: 56px;
+    background-repeat : no-repeat;
+    margin-left: 5px; 
+    margin-top: 5px
+}
+
+#analyticsTable button img, #analyticsTable button span {
+    vertical-align: middle;
+}
+
+.bda-products-tree {
+    max-height: inherit;
+    overflow:auto;
+    /* TRICK: Set up a transition event so accordian expand will change the height to auto by calling expandDone() */
+    transition: background-color 0.1s ease;
+}
+
+#weatherPanel, #weatherCtrl, #weatherContainer {
+    max-height: inherit;
+}
+
+.bda-products-tree:hover {
+    /* Force transition, but don't really change background */
+    background-color: rgba(38, 38, 38, 0);
+}
+
+.bda-products-tree-container div[data-tree-model] li {
+    line-height: 16px;
+}
+.bda-products-tree-container div[data-tree-model] li .expanded {
+    background-image: url("../icons/blueOpen.png");
+}
+
+.bda-products-tree-container div[data-tree-model] li .collapsed {
+    background-image: url("../icons/blueClosed.png");
+}
+
+.bda-products-tree-container div[data-tree-model] li .normal {
+    background-image: url("../icons/blueChild.png");
+}
+
+.bda-products-tree-container div[data-tree-model] li .new {
+    color: #f4eec5;
+    -webkit-animation-name:changeSize, changeColor;
+    -webkit-animation-duration:3s;
+    -webkit-animation-timing-function:ease-in;
+    -webkit-animation-delay:1s;
+    -webkit-animation-play-state:running;
+    -webkit-animation-iteration-count:infinite;
+}
+
+@-webkit-keyframes changeColor {
+    0% {color: #f4eec5;}
+    50% { color: orange;}
+    100% {color: #006DCC;}
+}
+   
+@-webkit-keyframes changeSize {
+    0% {-webkit-transform: scale(.95);}
+    65% {-webkit-transform: scale(1.0);}
+    100% {-webkit-transform: scale(1.05);}
+}
+
+.bda-products-tree-container div[data-tree-model] li .requested {
+    color: green;
+}
+
+.bda-products-tree-container div[data-tree-model] li .header {
+    color: #D0D0D0;
+}
+
+.bda-products-tree-container div[data-tree-model] li .available {
+    color: #E8E8E8;
+}
+
+.bda-products-tree-container div[data-tree-model] li .error {
+    color: red;
+}
+.bda-products-tree-container div[data-tree-model] li .hyperlink {
+	color: rgb(0, 148, 255);
+    text-decoration: underline;
+}
+.bda-products-tree-container div[data-tree-model] li .followedHyperlink {
+	color: rgb(240, 94, 250);
+    text-decoration: underline;
+}
+.bda-products-tree-container div[data-tree-model] li .new, .requested, .available, .error {
+    font-weight: bold;
+}
+
+.bda-products-tree-container div[data-angular-treeview] {
+    font-family: inherit;
+    font-size: inherit;
+}
+
+.alert-flashing {
+    -webkit-animation-name:changeColorCurrentAlert;
+    -webkit-animation-duration:3s;
+    -webkit-animation-timing-function:ease-in;
+    -webkit-animation-play-state:running;
+    -webkit-animation-iteration-count:infinite;
+    cursor: pointer;
+}
+
+@-webkit-keyframes changeSizeCurrentAlert {
+    0% {-webkit-transform: scale(.98);}
+    25% {-webkit-transform: scale(1.0);}
+    50% {-webkit-transform: scale(1.02);}
+    75% {-webkit-transform: scale(1.0);}
+    100% {-webkit-transform: scale(.98);}
+}
+
+@-webkit-keyframes changeColorCurrentAlert {
+    0% {color: white;}
+    50% { color: orange;}
+    100% {color: yellow;}
+}
+
+.bda-metoc-table {
+	margin-left: 4px;
+}

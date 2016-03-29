@@ -1,0 +1,11 @@
+The properties.json file contains properties for the BDA system.
+
+PROPERTY            	VALID ASSIGNMENTS
+------------        	---------------------------------------------------------
+webSocketPort     		web socket port, ex, "8025"
+webSocketCatalogRequest	web socket requested, appended to hostname, ex "/bda/catalog"
+geoserverUrl        	valid url
+restServerPort       	RESTful server port, appended to hostname, ex "8080"
+ncarUrl					valid url to ncar ADDS observation server
+proxy               	CORS proxy server request, appended to hostname, ex "bda-proxy/rs"
+metarTestFile       	Name of Metar test data file to use from resources/data, "METAR_wxxm_4_taus.xml"

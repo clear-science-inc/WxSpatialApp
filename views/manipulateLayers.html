@@ -1,0 +1,20 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* View portion of Manipulate layers.
+-->
+
+<div id="layersTableContainer">
+    <table id="layersTable">
+        <tr ng-repeat="parameter in layers | filter:query">
+            <td><input type="checkbox" ng-model="parameter.enabled" ng-change="enableLayer(parameter)"></td>
+            <td class='bda-layerName'> {{parameter.layerName}} </td>
+            <td><input type="range" style="width:100px" min="0" max="100" step="5" ng-model="parameter.opacity" ng-change="changeOpacity(parameter)"/></td>
+            <td>
+                <button id="layersTableRaiseBtn" ng-click="raiseLayer(parameter)" ng-show="layers.indexOf(parameter)>0"></button>
+                <button id="layersTableLowerBtn" ng-click="lowerLayer(parameter)" ng-show="layers.indexOf(parameter) < layers.length-1"></button>           
+            </td>
+            <td><button ng-click="deleteLayer(parameter)"><img ng-src='resources/icons/delete16.png'></button></td>
+        </tr>
+    </table>
+</div>

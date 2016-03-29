@@ -1,0 +1,11 @@
+.bda-obs-rawText {
+	font-family: courier-new;
+	color: rgb(150, 200, 230);
+	border-bottom: 1px solid #eee;
+}
+
+.bda-obs-rawText p {
+	font-family: courier-new;
+	font-size: 9pt;
+	color: rgb(150, 200, 230);
+}

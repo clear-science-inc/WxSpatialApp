@@ -1,0 +1,10 @@
+{
+    "webSocketPort": "8025",
+    "webSocketCatalogRequest": "/bda/catalog",
+    "geoserverUrl": "http://ec2-54-86-152-219.compute-1.amazonaws.com:8080/geoserver",
+    "restServerPort": "8080",
+    "ncarUrl": "http://new.aviationweather.gov/adds/dataserver1_3/current/",
+    "proxy": "bda-proxy/rs",
+    "metarTestFile": "WXXM_REAL_test_data.xml",
+    "metarSiteFile": "METAR_station_locations.xml"
+}

@@ -1,0 +1,131 @@
+/**
+ * Copyright 2014 General Dynamics Information Technology.
+ */
+ 
+#utilAndToolsTable button {
+    width: 60px;
+    height: 56px;
+    background-repeat : no-repeat;
+    margin-left: 5px; 
+    margin-top: 5px
+}
+
+#utilAndToolsTable button img, #utilAndToolsTable button span {
+    vertical-align: middle;
+}
+
+#aoiMenu  {
+    position: absolute;
+    right: -60px;
+    top: 200px;    
+    border-radius: 5px;
+    display: block;
+    margin-top: 1px;
+}
+
+#aoiMenu .bubble {
+    margin-left: 5px;     
+}
+
+#aoiMenu button, #toiMenu button {
+    background: #dcdcdc;
+    color: black;
+    width: 100%;
+    border-radius:5px;
+    border:1px solid gray;
+    opacity: .9;
+}
+
+#toiMenu {
+    position: absolute;
+    right: -20px;
+    top: 120px;    
+    width: 100%;
+    border-radius: 5px;
+}
+
+#distancePanel {
+    position: absolute;
+    right: 78px;
+    top: 200px;    
+    border-radius: 5px;
+    display: block;
+    margin-top: 1px;    
+}
+
+#distancePanel button, #distancePanel select, #distancePanel option {
+    background: #dcdcdc;
+    color: black;
+    border-radius:5px;
+    border:1px solid gray;
+    opacity: .8;
+}
+
+#distancePanel select {
+    padding: 2px;
+    width: 160px;
+    margin-bottom: 2px;
+}
+
+#distancePanel button:disabled {
+    color: gray;
+    background-color: #B8B8AA;
+}
+
+.modal-header h3 {
+    color: DimGray;
+}
+
+.modal {
+	width: auto;
+}
+
+#timePeriodModalBody input {
+    width: 16px;
+}
+
+#startTimeBox input, #endTimeBox  input {
+     width: auto;
+}
+
+#timePeriodModalBody span {
+    vertical-align: middle;
+}
+
+#timePeriodModalBody .btn-default {
+    /* Calendar button */
+    padding: 4px 6px;
+    vertical-align: 0px !important;	/* Override element style */
+}
+
+
+#timePeriodModalBody .btn-link {
+	/* Up/down arrows */
+    padding: 0px 5px;  
+}
+
+#timePeriodModalBody {
+	max-height: none;
+	overflow: visible;
+}
+
+#timePeriodModalBody b, #timePeriodModalBody td {
+    color: DimGray;
+}
+
+
+#timePeriodModalBody table th {
+    color: DimGray;
+}
+
+#timePeriodModal .modal-footer {
+	text-align: center;			/* Center the OK and Cancel buttons */
+}
+
+#timePeriodModalBody .form-group {
+	width: auto !important;		/* Override element style width: 50px */
+}
+
+#timePeriodModalBody .form-control {
+	margin-bottom: 1px;			/* Override 10px */
+}

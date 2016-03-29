@@ -1,0 +1,24 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* View portion of Weather Panel.
+-->
+<div ng-controller='weatherCtrl' id='weatherCtrl'>
+	<div id='weatherPanel'>
+        <!--
+          [TREE attribute]
+          angular-treeview: the treeview directive
+          tree-model : the tree model on $scope.
+          node-id : each node's id
+          node-label : each node's label
+          node-children: each node's children
+        -->
+        <div id='weatherTree' data-tree-id="weather_tree_ID" class="bda-products-tree"
+          data-angular-treeview="true"
+          data-tree-model="weatherService.products"
+          data-node-id="productId"
+          data-node-label="nodeLabel"
+          data-node-children="children" >
+        </div>
+    </div>
+</div>

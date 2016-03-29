@@ -1,0 +1,74 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+-->
+
+<!--
+* View portion of toolbar.
+-->
+<div id='toolbarCtrl' ng-controller='toolbarCtrl'>
+    <img ng-src="resources/icons/gdit.png" style="padding-top: 2px; padding-left: 4px"/>
+    <div id='top_panel_buttons_container' >
+        <button class="top_panel_button" title="Zoom Clock" ng-click="toolbarService.zoomTimeOne = !toolbarService.zoomTimeOne;"
+                ng-style="{'background-image': 'url(resources/icons/clock32x32.jpg)' }">
+        </button>
+        <button class="top_panel_button" title="User Profile" ng-click="toolbarService.showAnalytics=false; toolbarService.showUtilAndTools=false; toolbarService.showUserPreferences=!toolbarService.showUserPreferences; "
+            ng-style="{'background-image': 'url(resources/icons/user.svg)' }">
+        </button>
+        <button class="top_panel_button" title="Setting and Tools" ng-click="toolbarService.showUserPreferences=false; toolbarService.showAnalytics=false; toolbarService.showUtilAndTools=!toolbarService.showUtilAndTools"
+            ng-style="{'background-image': 'url(resources/icons/cog.svg)'}">
+        </button>
+        <button class="top_panel_button" title="GDIT Analytics" ng-click="toolbarService.showUserPreferences=false; toolbarService.showUtilAndTools=false; toolbarService.showAnalytics=!toolbarService.showAnalytics"
+            ng-style="{'background-image': 'url(resources/icons/apps.svg)', 'height': '24px', 'width': '24px', 'margin': '5px 6px'}">
+        </button>
+    </div>
+    <div id='userBubble' ng-include="'views/userPreferences.html'"></div>
+    <div id='analyticsBubble' ng-include="'views/analytics.html'"></div>
+    <div id='settingsBubble' ng-include="'views/utilAndTools.html'"></div>
+    <!-- second tier toolbar, place it to left of Cesium toolbar -->
+    <div id='tier2toolbar' style="position:absolute; right: 80px; top: 44px;">
+        <button title='Restore XY Plot'
+            ng-show='toolbarService.showMinimizeXyPlot && toolbarService.plotTasks>0;'
+            class="cesium-button"
+            ng-click='toolbarService.restoreXyPlot();'
+            ng-style="{'background-image': 'url(resources/images/plot.svg)',
+                        'width': '32px',
+                        'height': '32px'
+                    }">
+        </button>
+        <button title='Restore Thresholding'
+            ng-show='toolbarService.showMinimizeThresholding && toolbarService.thresholdingTasks>0;'
+            class="cesium-button"
+            ng-click='toolbarService.showMinimizeThresholding=false;'
+            ng-style="{'background-image': 'url(resources/icons/thresholding32.png)',
+                        'width': '32px',
+                        'height': '32px'
+                    }">
+        </button>
+        <button title='Station'
+            ng-show='toolbarService.thresholdingTasks>0 && toolbarService.metar_taf_label>0;'
+            class="cesium-button"
+            ng-style="{'background-image': 'url(resources/icons/StationLgnd-100x36.png)',
+                        'width': '100px',
+                        'height': '36px'
+                    }">
+        </button>
+        <button title='Wind'
+            ng-show='toolbarService.thresholdingTasks>0 && toolbarService.metar_taf_label>0;'
+            class="cesium-button"
+            ng-style="{'background-image': 'url(resources/icons/WindLgnd-162x19.png)',
+                        'width': '162px',
+                        'height': '19px'
+                    }">
+        </button>
+        <button title='Flight Catagory'
+            ng-show='toolbarService.thresholdingTasks>0 && toolbarService.metar_taf_label>0;'
+            class="cesium-button"
+            ng-click="toolbarService.flightCategory = !toolbarService.flightCategory;"
+            ng-style="{'background-image': 'url(resources/icons/FltCat-Lgnd-114x17.png)',
+                        'width': '114px',
+                        'height': '17px'
+                    }">
+        </button>
+    </div>
+    <div id="drawingToolbar" ng-show="toolbarService.showDrawingTools"></div>
+</div>

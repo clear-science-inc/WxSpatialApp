@@ -1,0 +1,26 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* View portion of Thresholding menu.
+-->
+
+<div id="thresholdTableContainer">
+    <table id="thresholdingTable">
+        <tr ng-repeat="parameter in thresholdingService.thresholdingParameters | filter:query">
+            <td> {{parameter.label}} </td>
+            <td><div>
+                <dual-range-slider-dir 
+                    left-range='parameter.min'
+                    right-range='parameter.max'
+                    marker1='parameter.marginal' 
+                    marker2='parameter.severe' 
+                    num-ticks='parameter.numTicks'
+                    is-flipped='parameter.isFlipped'>
+                </dual-range-slider-dir>
+            </div></td>
+            <td><button title="Reverse Scale" class='reverseSliderAxisBtn' ng-click='parameter.isFlipped=!parameter.isFlipped'></button></td>
+        </tr>
+    </table>
+    <button id="applyButton" ng-click="thresholdingService.thresholdingApplied=thresholdingService.thresholdingApplied+1">Apply</button>
+    <button id="clearButton" ng-click="thresholdingService.thresholdingApplied=0">Clear</button>
+</div>

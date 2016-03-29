@@ -1,0 +1,19 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* Layers Preference Panel.
+-->
+
+<div id='layersPreferencesPane'
+    data-bda-checkbox-tree="true"
+    data-tree-id="wmsTree123"
+    data-allow-inline-edit=true     
+    data-checkbox-tree-model="userPreferencesService.availableLayers"
+    data-node-id="id"
+    data-node-label="layerName"
+    data-node-children="children" >
+</div>        
+<div id='addLayersPane'>
+    URL: <input type="url" ng-model='userPreferencesService.newWmsUrl'>
+    <button id='addLayersAddBtn' title='Add WMS and its capabilities to Sources' ng-click="userPreferencesService.addWmsSource()"></button>
+</div>

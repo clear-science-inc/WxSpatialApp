@@ -1,0 +1,16 @@
+<div ng-controller="manipulateLayersCtrl" id="manipulateLayersCtrl">
+    <tabset >
+        <tab heading="Layers">
+            <div id='layersID' ng-include="'views/manipulateLayers.html'"></div>
+        </tab>
+        <tab heading="Legends">
+            <div id="legendTableContainer">
+            <table id="LegendsTable">
+                <tr ng-repeat="legend in showLegends | filter:query">
+                    <td><img ng-src={{legend.image}}></td>
+                </tr>
+            </table>
+            </div>
+        </tab>
+    </tabset>
+</div>

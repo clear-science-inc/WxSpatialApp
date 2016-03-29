@@ -1,0 +1,21 @@
+dual-range-slider-dir > svg {
+  font: 10px sans-serif;
+}
+
+dual-range-slider-dir .resize path {
+  fill: #666;
+  fill-opacity: .9;
+  stroke: #555;
+  stroke-width: 1.5px;
+}
+
+dual-range-slider-dir .axis path, .axis line {
+  fill: none;
+  stroke: #999;
+  shape-rendering: crispEdges;
+}
+
+ dual-range-slider-dir g.brush .extent {
+    shape-rendering: crispEdges;
+    fill: yellow;
+}

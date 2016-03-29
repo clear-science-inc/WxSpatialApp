@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<response xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XML-Schema-instance" version="1.2" xsi:noNamespaceSchemaLocation="http://weather.aero/schema/metar1_2.xsd">
+  <request_index>290715</request_index>
+  <data_source name="metars" />
+  <request type="retrieve" />
+  <errors />
+  <warnings />
+  <time_taken_ms>276</time_taken_ms>
+  <data num_results="2">
+    <METAR>
+      <raw_text>KLYH 221354Z 33007KT 10SM FEW070 13/05 A3001 RMK AO2 SLP161 T01330050</raw_text>
+      <icao_code>KLYH</icao_code>
+      <observation_time>2014-10-22T13:54:00Z</observation_time>
+      <latitude>37.3267</latitude>
+      <longitude>-79.2004</longitude>
+      <temp_c>13.3</temp_c>
+      <dewpoint_c>5.0</dewpoint_c>
+      <wind_dir_degrees>330</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.008858</altim_in_hg>
+      <sea_level_pressure_mb>1016.1</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>NULL</wx_string>
+      <sky_condition sky_cover="FEW" cloud_base_ft_agl="7000" />
+      <flight_category>VFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>285.902</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KAVP 221354Z 02009KT 10SM OVC017 12/08 A3001 RMK AO2 RAB1257E28 SLP160 P0000 T01170083</raw_text>
+      <icao_code>KAVP</icao_code>
+      <observation_time>2014-10-22T13:54:00Z</observation_time>
+      <latitude>41.3385</latitude>
+      <longitude>-75.7234</longitude>
+      <temp_c>11.7</temp_c>
+      <dewpoint_c>8.3</dewpoint_c>
+      <wind_dir_degrees>20</wind_dir_degrees>
+      <wind_speed_kt>9</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.008858</altim_in_hg>
+      <sea_level_pressure_mb>1016.0</sea_level_pressure_mb>
+      <quality_control_flags>
+        <auto_station>TRUE</auto_station>
+      </quality_control_flags>
+      <wx_string>NULL</wx_string>
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="1700" />
+      <flight_category>MVFR</flight_category>
+      <precip_in>0.005</precip_in>
+      <metar_type>METAR</metar_type>
+      <elevation_m>291.694</elevation_m>
+    </METAR>
+    <METAR>
+      <raw_text>KSYR 221354Z 36007KT 10SM SCT008 BKN023 OVC050 09/07 A3015 RMK SLP211 T00900069</raw_text>
+      <icao_code>KSYR</icao_code>
+      <observation_time>2014-10-22T13:54:00Z</observation_time>
+      <latitude>43.1112</latitude>
+      <longitude>-76.1063</longitude>
+      <temp_c>9.0</temp_c>
+      <dewpoint_c>6.9</dewpoint_c>
+      <wind_dir_degrees>360</wind_dir_degrees>
+      <wind_speed_kt>7</wind_speed_kt>
+      <visibility_statute_mi>10.0</visibility_statute_mi>
+      <altim_in_hg>30.15059</altim_in_hg>
+      <sea_level_pressure_mb>1021.1</sea_level_pressure_mb>
+      <wx_string>NULL</wx_string>
+      <sky_condition sky_cover="SCT" cloud_base_ft_agl="800" />
+      <sky_condition sky_cover="BKN" cloud_base_ft_agl="2300" />
+      <sky_condition sky_cover="OVC" cloud_base_ft_agl="5000" />
+      <flight_category>MVFR</flight_category>
+      <metar_type>METAR</metar_type>
+      <elevation_m>128.321</elevation_m>
+    </METAR>
+  </data>
+</response>
+    

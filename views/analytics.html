@@ -1,0 +1,73 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* View portion of analytics bubble menu in the BDA toolbar.
+-->
+
+<div class="bubble" ng-show='toolbarService.showAnalytics'>
+    <div ng-controller="analyticsCtrl" id='analyticsCtrl'>
+    <h3>GDIT Analytics</h3>
+    <table id="analyticsTable">
+        <tr>
+            <td>
+                <button title="Analyze Weather" ng-click="toggleWeather()">            
+                    <img ng-src='resources/icons/weather36.png'>
+                    <span>Weather</span>
+                </button>     
+            </td>
+            <td>                       
+                <button title={{aviationButtonTitle}} ng-click="toggleAviation()" >                
+                    <img ng-src='resources/icons/plane36.png'>
+                    <span>Aviation</span>
+                </button>                            
+            </td>                        
+            <td>                       
+                <button title="Text"  ng-click="" disabled>              
+                    <img ng-src='resources/icons/text36.png'>
+                    <span>Text</span>
+                </button>                            
+            </td>                        
+        </tr>
+        <tr>
+            <td>
+                <button title="Social" ng-click="toggleSocial();">             
+                    <img ng-src='resources/icons/social36.png'>
+                    <span>Social</span>
+                </button>                                 
+            </td>
+            <td>
+                <button title="Node"  ng-click="" disabled>             
+                    <img ng-src='resources/icons/node30x46.png'>
+                    <span>Node</span>
+                </button>                                 
+            </td>
+            <td>
+                <button title="Geospatial"  ng-click="" disabled>             
+                    <img ng-src='resources/icons/gis30x46.png'>
+                    <span>GIS</span>
+                </button>                                 
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button title="Sensors"  ng-click="" disabled>             
+                    <img ng-src='resources/icons/sensors30x46.png'>
+                    <span>Sensors</span>
+                </button>                                 
+            </td>
+            <td>
+                <button title="Video"  ng-click="" disabled>             
+                    <img ng-src='resources/icons/video30x46.png'>
+                    <span>Video</span>
+                </button>                                 
+            </td>
+            <td>
+                <button title="NLP"  ng-click="" disabled>             
+                    <img ng-src='resources/icons/nlp30x46.png'>
+                    <span>NLP</span>
+                </button>                                 
+            </td>
+        </tr>
+    </table>
+    </div>
+</div>

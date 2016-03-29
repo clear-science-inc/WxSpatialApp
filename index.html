@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="bdaSpatialApp" >
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1">  <!-- Use Chrome Frame in IE -->
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no">
+    <meta name="description" content="Big Wx Spatial Demo, requesting metars from geoserver, parsing the wxxm metar into a cesium object, plotting and thresholding the Metars.">
+    <title>N-DEMO</title>
+    <script src="js/dependencies/angular-1.3.0-rc.0/angular.min.js"></script>
+    <script src="js/dependencies/angular-bootstrap/ui-bootstrap-tpls-0.10.0.min.js"></script>
+    <script src="js/dependencies/angular.treeview-master/angular.treeview.js"></script>
+    <script src="js/dependencies/angular-1.3.0-rc.0/ngStorage.min.js"></script>
+    <script src="js/dependencies/d3/d3.v3.js"></script>
+    <script src="js/bda/framework/BdaSpatialApp.js"></script>
+    <script src="js/bda/framework/BdaSpatialCtrl.js"></script>
+    <script src="js/bda/framework/OkModalController.js"></script>
+    <script src="js/bda/framework/AlertService.js"></script>
+    <script src="js/bda/framework/AlertPanel.js"></script>
+    <script src="js/bda/framework/toolbar/AoiToiService.js"></script>
+    <script src="js/bda/framework/toolbar/AnalyticsCtrl.js"></script>
+    <script src="js/bda/framework/toolbar/DistanceService.js"></script>
+    <script src="js/bda/framework/toolbar/DrawingInputsCtrl.js"></script>
+    <script src="js/bda/framework/toolbar/UserPreferencesService.js"></script>
+    <script src="js/bda/framework/toolbar/UserPreferencesCtrl.js"></script>
+    <script src="js/bda/framework/toolbar/UtilAndToolsCtrl.js"></script>
+    <script src="js/bda/framework/ProgressService.js"></script>
+    <script src="js/bda/framework/PropertiesFactory.js"></script>
+    <script src="js/bda/framework/ThresholdingService.js"></script>
+    <script src="js/bda/framework/toolbar/ManipulateLayersCtrl.js"></script>
+    <script src="js/bda/framework/toolbar/ToolbarService.js"></script>
+    <script src="js/bda/framework/toolbar/ToolbarCtrl.js"></script>
+    <script src="js/bda/framework/toolbar/TimePeriodCtrl.js"></script>
+    <script src="js/bda/framework/toolbar/TimePeriodInstanceCtrl.js"></script>
+    <script src="js/bda/routes/AviationCtrl.js"></script>
+    <script src="js/bda/social/SocialMediaCtrl.js"></script>
+    <script src="js/bda/social/SocialMediaService.js"></script>
+    <script src="js/bda/weather/WeatherService.js"></script>
+    <script src="js/bda/weather/WeatherCtrl.js"></script>
+    <script src="js/bda/weather/WebSocketClient.js"></script>
+    <script src="js/bda/weather/gridded/GriddedService.js"></script>
+    <script src="js/bda/weather/imagery/ImageryFactory.js"></script>
+    <script src="js/bda/weather/imagery/ImageryService.js"></script>
+    <script src="js/bda/util/CheckboxTree.js"></script>
+    <script src="js/bda/util/CollapsiblePane.js"></script>
+    <script src="js/bda/util/DualRangeSlider.js"></script>
+    <script src="js/bda/util/FloatingPane.js"></script>
+    <script src="js/bda/util/UtilService.js"></script>
+    <script src="js/bda/util/XyPlot.js"></script>
+    <script src="js/bda/framework/pageload.js"></script>
+    <script src="js/dependencies/cesium/ThirdParty/requirejs-2.1.9/require.js"></script>
+    <script type="text/javascript">
+        require.config({
+            baseUrl : 'js',
+            packages: [
+                { name: 'Cesium', location: 'dependencies/cesium/Source'},
+                { name: 'DrawHelper', location: 'dependencies/cesium-drawhelper/amd'},
+                { name: 'Bda', location: 'bda'}
+            ],
+        });
+    </script>
+    <link href="//netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css" rel="stylesheet">
+    <style>@import url(js/dependencies/cesium/Source/Widgets/widgets.css);</style>
+    <style>@import url(js/dependencies/cesium/Source/Widgets/lighter.css);</style>
+    <style>@import url(js/dependencies/angular-bootstrap/bootstrap.css);</style>
+    <style>@import url(js/dependencies/angular-bootstrap/accordian.css);</style>
+    <style>@import url(js/dependencies/angular.treeview-master/css/angular.treeview.css);</style>
+    <style>@import url(js/dependencies/cesium-drawhelper/DrawHelper.css);</style>
+    <style>@import url(resources/css/index.css);</style>
+</head>
+<body>
+    <div id="cesiumContainer" class="fullWindow"></div>
+    <div id="loadingIndicator" class="loadingIndicator"></div>
+        <div id='bdaSpatialCtrl' ng-controller="bdaSpatialCtrl">
+        <div id='top_panel' ng-include="'views/toolbar.html'"></div>
+        <div ng-controller="AlertPanelCtrl" align="center"
+            style="position: absolute; width: 580px; top: 41px; left: 50%; margin-left: -290px;">
+          <div id="currentAlertPane" align="center">
+              <div id="currentAlert" class="alert-flashing" ng-click="selectCurrentAlert()"
+                  style="display: inline; font-size: 14px;
+                  padding-left: 4px; padding-right: 5px; padding-top: 2px; padding-bottom: 2px; margin-left: -4px;
+                  background-color: rgba(0,0,0,.65); visibility: hidden;"></div>
+              <button id="alertExpander" ng-click="expand()" title="Alerts"
+                  style="position: absolute; display: inline; top: 0px; width: 24px; height: 24px; opacity: 0.6;
+                     background-image: url(resources/icons/down.png); background-position: center; background-repeat: no-repeat">
+              </button>
+              <div id="alertScroller" style="position: relative; width: 520px; height: 0px; top: -22px; font-size: 14px;
+                background-color: rgba(0,0,0,.65); overflow: auto;
+                padding-left: 2px; padding-right: 4px;">
+              </div>
+          </div>
+        </div>
+        <div ng-show="toolbarService.showActiveTasks > 0;"
+            data-bda-collapsible-pane="true"
+            data-pane-id="activeTasks"
+            data-pane-include="'views/activeTasks.html'"
+            data-button-tip-name="Active Tasks">
+        </div>
+        <div id="readoutContainer" ng-show="toolbarService.showLatLon">
+            <h4>{{toolbarService.latLonReadout}}</h4>
+        </div>
+        <div id="statusBarContainer" ng-show="progressService.showProgressBar">
+            <h5>{{progressService.statusMessage}}</h5>
+            <div class="progress progress-striped active">
+                <div class="progress-bar" style="width:100%"></div>
+            </div>
+        </div>
+        <div ng-show="!toolbarService.showMinimizeThresholding && toolbarService.thresholdingTasks > 0;"
+            data-bda-floating-pane="true"
+            data-pane-title="Thresholding Parameters"
+            data-pane-id="thresholdingContainer"
+            data-pane-minimize="toolbarService.showMinimizeThresholding=true;"
+            data-pane-class='bda-container'
+            data-pane-include="'views/thresholding.html'">
+        </div>
+        <div ng-show="toolbarService.showManipulateLayers"
+            data-bda-collapsible-pane="true"
+            data-pane-id="southPanelContainer"
+            data-pane-attach="south"
+            data-pane-class='south-panel-container'
+            data-pane-include="'views/southPanelTabs.html'"
+            data-button-tip-name="Manipulate Layers">
+        </div>
+        <div ng-show="toolbarService.showDrawHelperInputs"
+            data-bda-floating-pane="true"
+            data-pane-title="Drawing Inputs"
+            data-pane-id="DrawingInputsContainer"
+            data-pane-class='bda-container'
+            data-pane-include="'views/drawingInputs.html'">
+        </div>
+        <div id="plot" ng-controller="XyPlotCtrl" ng-show="toolbarService.showXyPlot && !toolbarService.showMinimizeXyPlot && toolbarService.plotTasks>0;"
+            data-bda-floating-pane="true"
+            data-pane-id={{toolbarService.xyplotId}}
+            data-pane-minimize='toolbarService.minimizeXyPlot()'
+            data-pane-resize="true"
+            data-pane-include="'views/environmentDataPlot.html'">
+        </div>
+        <script id="pursuit_script_id">
+        require([
+            'Bda/framework/LayersController',
+            'Bda/framework/MapController',
+            'Bda/framework/toolbar/DrawingToolbar',
+            'Bda/routes/RouteChildController',
+            'Bda/social/TweetController',
+            'Bda/weather/obs/ObsChildController',
+            'Bda/weather/vector/VectorChildController',
+            'Cesium/Core/BingMapsApi',
+            'Cesium/Widgets/Viewer/Viewer',
+            'Cesium/Widgets/Viewer/viewerDragDropMixin'
+        ], function(
+            LayersController,
+            MapController,
+            DrawingToolbar,
+            RouteChildController,
+            TweetController,
+            ObsChildController,
+            VectorChildController,
+            BingMapsApi,
+            Viewer,
+            viewerDragDropMixin) {
+        "use strict";
+
+            // Created a Microsoft Live account and requested a Bing Key for Pursuit Demo
+            // from the following website: https://www.bingmapsportal.com/
+            var PURSUIT_DEMO_BING_KEY = 'Au-lTH0ZRbR0VCs3kMbBG-fRergJAZtDD3lWvjykjhbW0xrrswbmnMXziUBF1XeW';
+
+            try {
+                BingMapsApi.defaultKey = PURSUIT_DEMO_BING_KEY;
+
+                // Set the automaticallyTrackDataSourceClocks to false so updates to observations do not
+                // reset current time. ex zoom in/out or thresholding
+               	var viewer = new Viewer('cesiumContainer', {automaticallyTrackDataSourceClocks: false});
+
+                // Set clearOnDrop to false so dropped czml files do not blow away data
+                // currently being displayed on map.
+                var options = { "clearOnDrop" : false};
+                viewer.extend(viewerDragDropMixin, options);
+
+                new DrawingToolbar(viewer.cesiumWidget);
+                var obsController = new ObsChildController(viewer);
+                var routeController = new RouteChildController(viewer);
+                var vectorController = new VectorChildController(viewer);
+               	new TweetController(viewer);
+                new MapController(viewer, [obsController, routeController, vectorController]);
+                new LayersController(viewer);
+
+            } catch (e) {
+                console.error("Error creating pursuit Demo: " + e);
+            } finally {
+                pageload.finishedLoading();
+                console.info("... finished loading ...");
+            }
+        });
+        </script>
+    </div>
+</body>
+</html>

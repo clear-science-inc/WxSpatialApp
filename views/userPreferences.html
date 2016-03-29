@@ -1,0 +1,54 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+*
+* View portion of analytics bubble menu in the BDA toolbar.
+-->
+
+<div class="bubble" ng-show='toolbarService.showUserPreferences' style="width:120px;">
+    <div ng-controller="userPreferencesCtrl" id='userPreferencesCtrl'>
+        <h3>User Profile Preferences</h3>
+        <div id="preferencesContainer">
+            <button title="Login Credentials" ng-click="toolbarService.showUserPreferences=false">
+                <img ng-src='resources/icons/credentials.svg'>
+                <span>Credentials</span>
+            </button>
+            <button id="preferencesLayersButton" title="Set up preferred WMS Layers" ng-click="toolbarService.showUserPreferences=false; userPreferencesService.showLayersPreferences=true;">
+                <img ng-src='resources/icons/layers.svg'>
+                <span>Layers Preferences</span>
+            </button>
+            <button id="preferencesObsButton" title="Select Observation Data Source" ng-click="toolbarService.showUserPreferences=false; userPreferencesService.showObsPreferences=true;">
+                <img ng-src='resources/icons/Converted_WMO_Symbols/WeatherSymbol_WMO_WindArrowNH_04.svg'>
+                <span style="bottom: -4px;">Observations Preferences</span>
+            </button>
+            <div id="preferencesUnits" >
+                <h6 style="margin: 0">Units:</h6>
+                <input ng-model=userPreferencesService.preferences.units type="radio" name="unitsRadioButton" value="{{userPreferencesService.ENGLISH_UNITS}}">{{userPreferencesService.ENGLISH_UNITS}}<br/>
+                <input ng-model=userPreferencesService.preferences.units type="radio" name="unitsRadioButton" value="{{userPreferencesService.METRIC_UNITS}}">{{userPreferencesService.METRIC_UNITS}}<br/>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div ng-show="userPreferencesService.showLayersPreferences"
+    data-bda-floating-pane="true"
+    data-pane-title="WMS Layer Sources"
+    data-pane-id="WmsLayerPreferencesContainer"
+    data-pane-class='bda-container'
+    data-pane-close= "userPreferencesService.showLayersPreferences=false;"
+    data-pane-include="'views/layersPreferences.html'">
+</div>
+
+<div ng-show="userPreferencesService.showObsPreferences"
+    data-bda-floating-pane="true"
+    data-pane-title="Observation Preferences"
+    data-pane-id="ObsPreferencesContainer"
+    data-pane-class='bda-container'
+    data-pane-close= "userPreferencesService.showObsPreferences=false;"
+    data-pane-content='
+    	<div id="preferencesObsSource" >
+            <h6 style="margin: 0">Observation Data Source:</h6>
+            <input ng-model=userPreferencesService.preferences.obsDataSource type="radio" name="obsRadioButton" title="Select to use Big Data Geoserver" value="{{userPreferencesService.GEOSERVER_OBS_SOURCE}}">{{userPreferencesService.GEOSERVER_OBS_SOURCE}}<br/>
+            <input ng-model=userPreferencesService.preferences.obsDataSource type="radio" name="obsRadioButton" checked="true" title="Select to use Experimental Aviation Digital Data Service&#13;Note: only recent data is available, upto 3 days" value="{{userPreferencesService.ADDS_OBS_SOURCE}}">{{userPreferencesService.ADDS_OBS_SOURCE}}<br/>
+            <input ng-model=userPreferencesService.preferences.obsDataSource type="radio" name="obsRadioButton" title="Select to use dummy test data" value="{{userPreferencesService.TESTFILE_OBS_SOURCE}}">{{userPreferencesService.TESTFILE_OBS_SOURCE}}<br/>
+        '>
+</div>

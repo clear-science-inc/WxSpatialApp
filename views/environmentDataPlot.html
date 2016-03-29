@@ -1,0 +1,17 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* View portion of the xy d3 plot that displays environmental data over time.
+-->
+<h3 align="center">{{currentPlot}}</h3>
+<input ng-model="$parent.plotBy" ng-repeat-start="parameter in thresholdingService.thresholdingParameters" type="radio" name="plotTypeRadioButton" value="{{parameter.name}}">
+    <span ng-repeat-end class="plotTypeLabel" style="font-size: 12px;">{{parameter.label}}</span>       
+<p class="error">{{error}}</p>
+<xyplot-dir plotdata="data" 
+    plottype="plotBy" 
+    thresholddata="thresholdData" 
+    currenttime="currentTime"
+    isthresholded="isThresholded" 
+    applythreshold="applyThreshold"
+    parentid={{toolbarService.xyplotId}}>
+</xyplot-dir>

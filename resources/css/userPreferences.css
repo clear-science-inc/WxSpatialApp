@@ -1,0 +1,138 @@
+/**
+ * Copyright 2014 General Dynamics Information Technology.
+ */
+ 
+#userBubble .bubble {
+    right: 34px;
+} 
+
+#preferencesContainer {   
+    text-align:center;
+}
+    
+#preferencesContainer button {
+    width: 64px;
+    height: 56px;
+    background-repeat : no-repeat;
+    margin-top: 5px;
+    line-height: 0px;
+}
+
+#preferencesContainer button img, #preferencesContainer button span {
+    vertical-align: middle;
+}
+
+#preferencesContainer > button > span {
+    position: relative;
+    bottom: 8px;
+    left: -5px;
+}
+
+#preferencesContainer >button#preferencesLayersButton > span {
+    bottom: 12px;
+}
+
+#preferencesLayersButton img {
+    height: 40px;
+}
+
+#preferencesUnits {
+    border: 1px solid antiquewhite;
+    border-radius: 4px;
+    height:64px;
+    width:80px; 
+    margin-top:5px; 
+    margin-left: auto; 
+    margin-right: auto;
+    text-align: left;
+}
+
+#preferencesUnits input[type="radio"] {
+    margin-left: 5px;
+    vertical-align: top;
+}
+
+.preferencesButton {
+    box-shadow: inset 0px 1px 0px 0px #ffffff;
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f9f9f9), color-stop(1, #dedede));
+    background: -moz-linear-gradient(top, #f9f9f9 5%, #dedede 100%);
+    background: -webkit-linear-gradient(top, #f9f9f9 5%, #dedede 100%);
+    background: -o-linear-gradient(top, #f9f9f9 5%, #dedede 100%);
+    background: -ms-linear-gradient(top, #f9f9f9 5%, #dedede 100%);
+    background: linear-gradient(to bottom, #f9f9f9 5%, #dedede 100%);
+    border-radius: 3px;
+    border: 1px solid #dcdcdc;
+    display: inline-block;
+    padding: 3px 7px;
+    margin: 3px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #ffffff;
+    color: black;
+    cursor: default;
+    opacity: 0.75;    
+}
+
+/*
+ * Layer Preferences styles
+ */
+
+#WmsLayerPreferencesContainer {
+    top: 160px;
+}
+
+#layersPreferencesPane {
+	overflow-x: hidden;
+    overflow-y: auto;
+    max-width: 400px;
+    max-height: 500px;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+#layersPreferencesPane > div {
+    margin: 0px;
+}
+
+#layersPreferencesPane input[type="checkbox"] {
+    vertical-align: text-bottom;
+}
+
+#addLayersPane {
+    border-top: rgb(253, 253, 253);
+    border-top-style:  solid;
+    border-top-width: 1px;
+    margin: 2px;
+}
+
+#addLayersAddBtn  {
+    background-image: url(../icons/add.svg);
+    width: 20px;
+    height: 20px;
+    background-size: contain; 
+    cursor: pointer;
+    background-color: rgba(1,1,1,0);
+    border: none;
+}
+
+#addLayersPane input {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: rgb(18, 18, 18);
+    padding: 2px;
+    margin-top:  10px; 
+    margin-left: 10px;
+    margin-right: 10px;
+    border-top-width: 1px;
+    width: 260px;
+}
+
+/* Observations Preferences */
+#ObsPreferencesContainer {
+	width: 210px;
+	left: 50%;
+}
+
+#preferencesObsSource input[type="radio"] {
+	margin-left: 20px;
+    vertical-align: top;
+}
+

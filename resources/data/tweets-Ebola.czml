@@ -1,0 +1,1429 @@
+[{
+  "id":"document",
+  "version":"1.0"
+ },
+ {
+  "id":"Ebola-1", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-77.021656,38.897531,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"juliosimon","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>juliosimon</td></tr> <tr><td>Date:</td> <td> 2014-10-31T09:51:45-0700<td></tr> <tr><td>Message:</td> <td>.@chefjoseandres me encantan los tenis pero los cordones no funcionan, compa #sucio #ebola http://t.co/wxxplC8hVjz </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-2", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.540796,-34.453195,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"De Luca Vera♡","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>De Luca Vera♡</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:51:53-0700<td></tr> <tr><td>Message:</td> <td>Lloro ebola </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-3", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-95.205876,29.849308,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"nodnarb","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>nodnarb</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:51:58-0700<td></tr> <tr><td>Message:</td> <td>Interesting fact: Dogs can carry Ebola, and register for affordable healthcare. </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-4", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-122.439723,37.803415,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Karen-Louise Ward","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Karen-Louise Ward</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:52:02-0700<td></tr> <tr><td>Message:</td> <td>#DrGaryKobinger we owe you much. Your pioneering work with CF is now saving lives re: Ebola. </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-5", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-86.647835,33.638002,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Haley Pate","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Haley Pate</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:52:15-0700<td></tr> <tr><td>Message:</td> <td>That moment someone brings up the odd possibility of Justin Beiber catching Ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-6", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-79.301576,43.717294,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Z U B E A R","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Z U B E A R</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:52:32-0700<td></tr> <tr><td>Message:</td> <td>Africa's last hope at fighting Ebola RT  @DJZeeti: http://t.co/Y6t1WCyfhL </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-7", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-105.252687,39.998034,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"evan","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>evan</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:52:32-0700<td></tr> <tr><td>Message:</td> <td>@joshnelsonNJ sexy ebola virus?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-8", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-93.2945,44.949229,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Brandon Mester","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Brandon Mester</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:52:48-0700<td></tr> <tr><td>Message:</td> <td> ...and after ISIS and Ebola were defeated we all vowed to never hashtags again. </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-9", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-80.800395,35.116489,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"F Christian Cano","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>F Christian Cano</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:53:50-0700<td></tr> <tr><td>Message:</td> <td>#BorderKids#KingObama#IRS#Bengazi#Ebola#Gays#Obamacare? #NC09 Voters rso OVER @reppittenger! @MeckDems #VotePittOut16 http://t.co/2D0qvap5fG</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-10", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-75.407786,43.051369,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"SHIRAISHI!","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>SHIRAISHI!</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:53:55-0700<td></tr> <tr><td>Message:</td> <td>I'm going as sexy Ebola ISIS Kermit sipping the tea</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-11", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-85.339064,31.348107,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Courtney Anne Bass","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Courtney Anne Bass</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:54:11-0700<td></tr> <tr><td>Message:</td> <td>Annabelle or Ebola patient? @ halloween 2014 👻 http://t.co/BsLhB5MNVR</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-12", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-57.954619,-34.904788,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"HabíaUnaVez ▼","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>HabíaUnaVez ▼</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:54:41-0700<td></tr> <tr><td>Message:</td> <td>Jajajajajajaja jajajaj el ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-13", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[101.093083,4.60515,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Sun Onn Yie","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Sun Onn Yie</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:54:57-0700<td></tr> <tr><td>Message:</td> <td>Kalau dah takdir...yot tu pun boleh kena ebola raimi oii...hahaha</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-14", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-76.615535,39.301903,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Baltimore CP","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Baltimore CP</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:55:45-0700<td></tr> <tr><td>Message:</td> <td>Profectus BioSciences gets another $9.5 million for Ebola vaccine work: Baltimore pharmaceutical firm Profectus… http://t.co/916d7cp3vR</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-15", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[2.37849,48.858667,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Pierrick-Robert","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Pierrick-Robert</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:55:47-0700<td></tr> <tr><td>Message:</td> <td>@j_cs_ je peux réciter tous les derniers MARS de la DGS depuis le début d'Ebola, ça compte?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-16", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-43.404414,-22.879337,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Hüg","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Hüg</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:55:47-0700<td></tr> <tr><td>Message:</td> <td>acho que estou com ebola depois de ri tanto http://t.co/X1uK9vAQ50</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-17", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-77.451351,38.971393,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Ron Sun","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Ron Sun</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:56:09-0700<td></tr> <tr><td>Message:</td> <td>I wonder how many Ebola costumes we will see this weekend.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-18", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.365716,-34.646884,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Horacio Cano","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Horacio Cano</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:56:36-0700<td></tr> <tr><td>Message:</td> <td>@elintransigente aca tienen a la enfermera del ebola http://t.co/aWge8xeh9n</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-19", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-84.529607,38.006927,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"N.","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>N.</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:56:38-0700<td></tr> <tr><td>Message:</td> <td>http://t.co/8qh6jRj9RM 💗💗</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-20", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-81.283234,28.780362,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Laura Wick","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Laura Wick</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:56:43-0700<td></tr> <tr><td>Message:</td> <td>I have Ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-21", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-117.233834,32.88195,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Giancarlo Perrone","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Giancarlo Perrone</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:56:48-0700<td></tr> <tr><td>Message:</td> <td>When you got Ebola but have to take a midterm http://t.co/9L0bBL2EJt</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-22", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[120.670742,24.243065,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"MamIQAL","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>MamIQAL</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:56:58-0700<td></tr> <tr><td>Message:</td> <td>duh :(“@imanbr: Gawat juga kalau Ebola sudah sampai Madiun�?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-23", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.374784,34.026159,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Red","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Red</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:57:52-0700<td></tr> <tr><td>Message:</td> <td>I'm looking forward to losing count of Elsa and Ebola related costumes tonight</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-24", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-79.765777,43.22834,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Sir Steal Yo Girl","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Sir Steal Yo Girl</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:58:02-0700<td></tr> <tr><td>Message:</td> <td>November forecast: white people self-diagnosing themselves with Ebola when they really have the flu.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-25", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-49.249317,-25.551307,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Princesa Jujuba ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Princesa Jujuba </td></tr> <tr><td>Date:</td> <td>2014-10-31T09:58:09-0700<td></tr> <tr><td>Message:</td> <td>@cri_cco ta todo mundo pegando ebola, mana. If you know what I mean</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-26", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-122.248243,38.126499,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"�?ɨ�?�?Ќɨɲƶ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>�?ɨ�?�?Ќɨɲƶ</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:58:42-0700<td></tr> <tr><td>Message:</td> <td>Mom just made an Ebola joke to my doctor.😂</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-27", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.573614,-34.750934,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Vamos las putas † ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Vamos las putas † </td></tr> <tr><td>Date:</td> <td>2014-10-31T09:58:47-0700<td></tr> <tr><td>Message:</td> <td>Ebola ver a esta pelotuda en el inició.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-28", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[0.0,0.0,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Shari-Lynn","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Shari-Lynn</td></tr> <tr><td>Date:</td> <td>2014-10-31T09:59:27-0700<td></tr> <tr><td>Message:</td> <td>Interesting:  Ebola Could Become An STD http://t.co/QdXVwRnfG3</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-29", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-86.830881,33.492557,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Spartacus ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Spartacus </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:00:07-0700<td></tr> <tr><td>Message:</td> <td>I'm not rt that Ebola shit #unfunny</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-30", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-2.466594,53.745956,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Syd V","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Syd V</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:00:21-0700<td></tr> <tr><td>Message:</td> <td>Good Point 😂 #ebola #HappyHalloween #Halloween http://t.co/wh8TFpylBl</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-31", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.540815,-34.453193,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"De Luca Vera♡","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>De Luca Vera♡</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:00:24-0700<td></tr> <tr><td>Message:</td> <td>Que down, lloro ebola x2</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-32", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-77.0478,38.9189,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Dr. Joseph Santoro","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Dr. Joseph Santoro</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:00:30-0700<td></tr> <tr><td>Message:</td> <td>Russian Politician: Ban @Apple CEO Tim Cook from Russia because he's #Gay, and thus could have AIDS or #Ebola! http://t.co/7VnNE5PVvt #apple</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-33", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-80.729625,36.400267,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"wodnerwll","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>wodnerwll</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:00:48-0700<td></tr> <tr><td>Message:</td> <td>THERES SOMETHIBG ON THE NEWS THAT SAYS EBOLA IS A POPULAR COSTUME AND ITS GOT A PICTURE OF AN EBOLA CHAN COSPLAYER</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-34", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-122.009039,38.264578,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"sunmooncrab","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>sunmooncrab</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:00:52-0700<td></tr> <tr><td>Message:</td> <td>You Know Why BO is All Tappy Tap Tap Ebola Baby !! Cause Even He Know Aint No Ebola in the USA. As Well as Everybody on Your Plantation Tv.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-35", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.607861,-34.573145,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Stitch.","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Stitch.</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:02-0700<td></tr> <tr><td>Message:</td> <td>Cada vez que me dice Cande me agarra ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-36", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.537802,34.241908,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Philthese","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Philthese</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:06-0700<td></tr> <tr><td>Message:</td> <td>Put a glade bottle to the mirror and it spells Ebola http://t.co/TUaZkRCXY0</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-37", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[2.405669,49.064652,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Eileen Diarra","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Eileen Diarra</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:07-0700<td></tr> <tr><td>Message:</td> <td>Un mec qui éternue à chatelet, ma mère  ça y est ebola partout pfiout pfiout pfiout .. Comment vous dire qu'elle m'a achevée ! #Ebolainparis</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-38", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-80.729624,36.400267,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"wodnerwll","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>wodnerwll</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:08-0700<td></tr> <tr><td>Message:</td> <td>EBOLA CHAN IS MAKING HER WAY TO THE BIG LEAGUES</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-39", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[144.862608,-37.722298,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Anthony Silvestro","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Anthony Silvestro</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:12-0700<td></tr> <tr><td>Message:</td> <td>Everyone thought I was Ebola tonight... #imtheonewhoknocks</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-40", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-2.380781,53.49878,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Joseph Gough","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Joseph Gough</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:20-0700<td></tr> <tr><td>Message:</td> <td>Would rather get Ebola than deal with trick or treaters tonight</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-41", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.555154,34.202225,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Dhorn™","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Dhorn™</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:42-0700<td></tr> <tr><td>Message:</td> <td>@LDB_2014 @WorldStarFunny ebola as a Halloween joke .... classic</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-42", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[29.397221,40.768931,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Dila","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Dila</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:51-0700<td></tr> <tr><td>Message:</td> <td>Bugün beni mutlu eden tek şey Alinin ebola olmayisi</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-43", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-3.976501,5.28292,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Zil","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Zil</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:01:56-0700<td></tr> <tr><td>Message:</td> <td>Une blague à sa fille dans un avion 2500 € d'amende. http://t.co/QmgjICSuKE</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-44", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[101.093068,4.605143,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Sun Onn Yie","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Sun Onn Yie</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:02:05-0700<td></tr> <tr><td>Message:</td> <td>Yot pun asal dari benua africa. Peratus die dijangkiti ebola tu tinggi.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-45", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-81.61764,30.133526,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Traci Sheffield","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Traci Sheffield</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:02:21-0700<td></tr> <tr><td>Message:</td> <td>Mom:  I bet before this is over with someone is going to name their kid Ebola bc they think it's pretty  Lacey:  $5 says they're black </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-46", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-97.723722,30.404302,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Callodehacha","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Callodehacha</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:03:17-0700<td></tr> <tr><td>Message:</td> <td> EL EBOLA TE DA FIEBRE Y CAGAS TUS INTESTINOS  - @joe_trouble, graduado de la UNAM. https://t.co/AyF0K1UYJ5</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-47", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-49.258416,-25.52522,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Dmeterko ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Dmeterko </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:03:23-0700<td></tr> <tr><td>Message:</td> <td>@eduardoafe1 preto ebola pfvr</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-48", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-54.490484,-25.594716,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Carina Dysarsz Cunha","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Carina Dysarsz Cunha</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:03:23-0700<td></tr> <tr><td>Message:</td> <td>vontade de gritar q to com ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-49", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[11.58562,48.147586,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"PorqueMexicoNoAvanza","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>PorqueMexicoNoAvanza</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:03:37-0700<td></tr> <tr><td>Message:</td> <td>Flu or Ebola? US hospitals prepare for a confusing season http://t.co/vM8kw6Ag4Y</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-50", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-73.97979,40.759089,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Jamil Smith","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Jamil Smith</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:03:43-0700<td></tr> <tr><td>Message:</td> <td>Kaci Hickox is no longer under Ebola quarantine, per a ruling today from a Maine judge. http://t.co/FlD2N8ku1F</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-51", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[4.402957,52.203332,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Tessa","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Tessa</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:04:33-0700<td></tr> <tr><td>Message:</td> <td>@giovannilaisina kijken of ik ebola heb. 😩😩😩</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-52", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[112.726087,-7.310035,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Arlet Yusya Putrinda","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Arlet Yusya Putrinda</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:04:47-0700<td></tr> <tr><td>Message:</td> <td>😷  @adimasnuel: Duh. RT @Metro_TV: Delapan Warga Madiun Diduga Terjangkit Virus Ebola http://t.co/la0tJQ9EZJ </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-53", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-117.384379,33.97139,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Elsa.","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Elsa.</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:04:57-0700<td></tr> <tr><td>Message:</td> <td>If you're Ebola, I'm Ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-54", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-90.331478,32.337588,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Kassie Russom","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Kassie Russom</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:05:24-0700<td></tr> <tr><td>Message:</td> <td>The fact that I'm excited about this ebola lecture kind of scares me. But who doesn't want an ebola (sugar) cookie http://t.co/vbl6KpmXn8</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-55", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-6.156387,53.447446,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Chris Kelly","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Chris Kelly</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:06:26-0700<td></tr> <tr><td>Message:</td> <td>“@FRANCE24: Irish court fines Italian for 'sick' Ebola joke http://t.co/yc3ZnxoOoM�?@FeidhlimKelly</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-56", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-84.960074,41.853842,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"pandy","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>pandy</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:08:11-0700<td></tr> <tr><td>Message:</td> <td>#ScaryStoriesIn5Words Ebola coming to your town #Truuuu</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-57", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-61.842178,17.118894,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Baeless in Seattle �?","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Baeless in Seattle �?</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:08:12-0700<td></tr> <tr><td>Message:</td> <td>*searches for the joke*  @FeeIOIdYet: Remember Ebola? This is it now! Feel old? http://t.co/AsOJfjZQDB </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-58", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-7.679755,33.554396,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Elfatmi belabbas","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Elfatmi belabbas</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:08:20-0700<td></tr> <tr><td>Message:</td> <td>http://t.co/aNbDeV5hQ8 L'Amérique adopte 30 mesures contre l'ébola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-59", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-84.421884,39.005667,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"elizabeth","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>elizabeth</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:08:29-0700<td></tr> <tr><td>Message:</td> <td>“@NormOrnstein: Americans killed by pajamas on fire:4. Americans killed by Ebola:1. Governors acting like buffoons on Ebola: Priceless�? �?�?�?�?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-60", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-81.57253,30.347104,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"C.Abe","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>C.Abe</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:08:50-0700<td></tr> <tr><td>Message:</td> <td>@shdtlz @STAND_FIGHT_ACT Those are for the 34,000 visas for W. Africans he's ready to bring over &amp;GIVE FREE MEDICAL to the ebola infected </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-61", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-80.729623,36.400269,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"wodnerwll","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>wodnerwll</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:08:54-0700<td></tr> <tr><td>Message:</td> <td>@memesicalPigeon IVE KNOWN ABOYT EBOLA CHAN FOR OVER A MONTH</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-62", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-85.648188,42.458875,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Noah Hazen","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Noah Hazen</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:10:02-0700<td></tr> <tr><td>Message:</td> <td>Hey Twitter People, could this have something to do with Ebola?  I certainly don't know if I have it, hope I don't.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-63", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.179982,34.686805,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"isaac ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>isaac </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:10:07-0700<td></tr> <tr><td>Message:</td> <td>Only at Lancaster 😭😭😭😂😂😂 #Ebola http://t.co/ccKoYurWxC</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-64", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-80.729626,36.400267,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"wodnerwll","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>wodnerwll</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:11:39-0700<td></tr> <tr><td>Message:</td> <td>@GucciSkinAnime @memesicalPigeon Hayden is the ultimate follower of ebola chan</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-65", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[2.820934,48.850767,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"// Mihawk //","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>// Mihawk //</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:12:18-0700<td></tr> <tr><td>Message:</td> <td>Vous aimez trop blaguer sur ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-66", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-74.04952,40.723373,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Janella","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Janella</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:12:21-0700<td></tr> <tr><td>Message:</td> <td>@amazing_Ebola I mean the girl is schizophrenic so it's definitely sad. I hope she gets well. @amandabynes</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-67", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[6.903636,4.908458,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"FRANKIZZ #KNG","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>FRANKIZZ #KNG</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:12:36-0700<td></tr> <tr><td>Message:</td> <td>The Meadowside School in US finally readmitted Nigerian girl Opayemi in School after been barred for fear of Ebola http://t.co/1FRJEAGFIQ</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-68", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-122.486894,48.726661,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Robert Mittendorf","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Robert Mittendorf</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:12:45-0700<td></tr> <tr><td>Message:</td> <td>Finally a little sanity on Ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-69", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-81.658961,30.324324,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Bobby Wilbert","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Bobby Wilbert</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:13:00-0700<td></tr> <tr><td>Message:</td> <td>Two-Week-Old Baby Girl Survives #Ebola in Sierra Leone - http://t.co/f77JISkGOu</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-70", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-52.374957,-31.760443,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"bhaerter","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>bhaerter</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:13:22-0700<td></tr> <tr><td>Message:</td> <td>Esperando ebola chegar http://t.co/5JARzyKaTC</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-71", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[6.135722,49.140787,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Qataris","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Qataris</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:14:07-0700<td></tr> <tr><td>Message:</td> <td>Faite gaffe askip y'a ebola qui est déguiser aussi</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-72", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-82.568435,35.741783,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"♚♚♚♚","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>♚♚♚♚</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:14:38-0700<td></tr> <tr><td>Message:</td> <td>“@FeeIOIdYet: Remember Ebola? This is it now! Feel old? http://t.co/aFo4Rqz79r�? 😂😂😂😂😂😂</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-73", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-103.346914,20.653358,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Abogado Del Chamuco","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Abogado Del Chamuco</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:14:56-0700<td></tr> <tr><td>Message:</td> <td>Sin ser ebola si te ando dando hasta que te mueras.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-74", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-84.924287,38.026403,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Richard Cobb","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Richard Cobb</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:14:58-0700<td></tr> <tr><td>Message:</td> <td>Are reporters immune to Ebola?  Kaci Hickox had a dozen reporters within arms length of her. Overreaction by politicians. Free Hickox! LOL</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-75", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.603387,-34.573707,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Martuuu","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Martuuu</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:14:58-0700<td></tr> <tr><td>Message:</td> <td>Dios esta chabona es un ebola con patas.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-76", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-2.214445,53.458148,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Lord Tywin","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Lord Tywin</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:15:11-0700<td></tr> <tr><td>Message:</td> <td>@domgb_ might steal that idea. Just right Ebola on the front of a white tee 😂😂😂😂😂</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-77", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[32.59863,0.35144,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"NANZIRI MARY MILAN","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>NANZIRI MARY MILAN</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:15:18-0700<td></tr> <tr><td>Message:</td> <td>@muthitwa @mtnug lol its easier to contract ebola than get mtn services to function i tell you.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-78", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[8.010846,52.307818,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Martin Holubec","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Martin Holubec</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:15:51-0700<td></tr> <tr><td>Message:</td> <td>Rými�?ka a kašílek se v open space kancelářích šíří rychleji než ebola světem... vědci by měli lépe rozpoznávat opravdové problémy lidstva</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-79", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-90.508715,14.649455,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"van den Hoef ♥ ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>van den Hoef ♥ </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:16:09-0700<td></tr> <tr><td>Message:</td> <td>Malditos hombres, podría ser su hija o nieta. Ojala les de ebola. 😒😒</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-80", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-79.953566,39.634689,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Pete","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Pete</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:16:25-0700<td></tr> <tr><td>Message:</td> <td>Id rather have Ebola than this headache</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-81", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.383392,34.08675,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Rob Sheridan","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Rob Sheridan</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:16:42-0700<td></tr> <tr><td>Message:</td> <td>This is Orson Welles. Ebola is airborne and your house is on fire. Happy Halloween!</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-82", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.160368,34.008341,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Jess Ewald","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Jess Ewald</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:16:55-0700<td></tr> <tr><td>Message:</td> <td>Halloween joke about Ebola and sad girls waiting for texts. There. We good?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-83", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-3.550341,54.631364,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"mark bell","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>mark bell</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:17:14-0700<td></tr> <tr><td>Message:</td> <td>: When you lie to your kid and tell them they have Ebola 😂 https://t.co/OfQr5BrlL5�?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-84", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-91.646491,44.046827,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"anna na wuts my name","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>anna na wuts my name</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:17:21-0700<td></tr> <tr><td>Message:</td> <td>It smells like straight up vomit outside Pasteur. Someone either has ebola or had a rough night</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-85", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[5.388897,43.276817,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Cixi-Hélène","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Cixi-Hélène</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:19:33-0700<td></tr> <tr><td>Message:</td> <td>#Rousselet (Greenpeace)  il y a eu un chantage à Ebola en république tchèque, pourquoi pas un chantage en centrales nucléaires ! </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-86", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-64.171757,-31.376442,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"DeValeenPalavecino♥","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>DeValeenPalavecino♥</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:20:10-0700<td></tr> <tr><td>Message:</td> <td>Si un argentino tiene ebola ... e'boludo .</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-87", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[106.790078,-6.2536,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Didiet Noor","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Didiet Noor</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:20:28-0700<td></tr> <tr><td>Message:</td> <td>!! RT @aulia: Eight people in Madiun, East Java may have contracted Ebola from recent African trip http://t.co/wud8Y9TABf</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-88", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[19.454477,51.776511,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Piotr Dybiec","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Piotr Dybiec</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:20:30-0700<td></tr> <tr><td>Message:</td> <td>#BreakingNews Judge enforces Ebola isolation of defiant Maine nurse http://t.co/PugmT8dHVG @reuters</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-89", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-1.609853,54.995147,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Annabel Rogers","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Annabel Rogers</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:20:44-0700<td></tr> <tr><td>Message:</td> <td>The temptation to black up and have Ebola tonight</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-90", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-0.413862,50.996886,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"phill wesson","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>phill wesson</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:20:48-0700<td></tr> <tr><td>Message:</td> <td>@PhillWesson: What a beautiful summers Halloween we're having! Happy global warming everybody. #globalwarming #Halloween #weather #Ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-91", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-73.968453,40.803068,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"celeste kitty","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>celeste kitty</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:22:27-0700<td></tr> <tr><td>Message:</td> <td>YOU CANNOT DRESS UP AS EBOLA FOR HALLOWEEN. IT IS A DEADLY DISEASE THAT IS KILLING THOUSANDS. YOU ARE AN IDIOT. ITS LIKE DRESSING AS CANCER</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-92", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.588008,34.244412,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Michael Trillium","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Michael Trillium</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:22:52-0700<td></tr> <tr><td>Message:</td> <td>Ebola can travel through sneeze, which contains bodily fluids, survive on objects, transmit to others: http://t.co/P0zNiUZ089</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-93", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-73.650419,40.608343,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"mia","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>mia</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:23:17-0700<td></tr> <tr><td>Message:</td> <td>@GissellBee lmfaooooo Kyle was touching it #ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-94", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[103.910951,1.312897,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Thomas Kong","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Thomas Kong</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:23:20-0700<td></tr> <tr><td>Message:</td> <td>lol clicked on this link.. Ebola isn't prank worthy, it's not funny http://t.co/TJHlpCHmWE</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-95", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[28.651906,41.000965,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"R4BIA Platform","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>R4BIA Platform</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:23:24-0700<td></tr> <tr><td>Message:</td> <td>#Tikadan Ebola tehlikesi altındaki kolda bölgesinde sağlık taraması http ://www.tika.gov.tr/haber/1559#.VFPDqntBxxg. http://t.co/JlTiXkxh89</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-96", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-1.612678,52.272457,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Harriet ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Harriet </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:23:28-0700<td></tr> <tr><td>Message:</td> <td>https://t.co/9dGMne05Yv please sponsor me if you can :) #msf #EbolaCrisis #sponsored #run #justgiving #ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-97", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-75.156341,39.983882,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"$am","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>$am</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:24:17-0700<td></tr> <tr><td>Message:</td> <td>esp since j&amp;h just gave me Ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-98", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[2.291926,48.877258,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Réserve Sanitaire","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Réserve Sanitaire</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:24:25-0700<td></tr> <tr><td>Message:</td> <td>.@MarisolTouraine avec l'@EPRUS @MarcJMeunier &amp; les réservistes avant le départ de la 1ère équipe à Macenta #Ebola http://t.co/sN54iKU9uv</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-99", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.477351,-34.613993,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Rorro ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Rorro </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:24:48-0700<td></tr> <tr><td>Message:</td> <td>El pure marolio te da ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-100", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-84.92392,38.025989,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Richard Cobb","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Richard Cobb</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:25:00-0700<td></tr> <tr><td>Message:</td> <td>@chrislhayes Are reporters immune to Ebola? Kaci Hickox had over a dozen following her on bike ride.  Scar tactics = ratings!</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-101", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-75.038604,39.798937,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"LBJ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>LBJ</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:25:26-0700<td></tr> <tr><td>Message:</td> <td>What I am sick of is ppl r so caught up in the sensationalism of #Ebola that they're getting caught up in it. Myth an Hype not SCIENCE.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-102", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[24.816641,60.217386,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Tiina Haapaniitty","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Tiina Haapaniitty</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:25:50-0700<td></tr> <tr><td>Message:</td> <td>Tämäkin päivä livahti taas iltaan ilman vilkuiluja iltapäivälehtiin, joten kysytään Twitteristä. Mikä oli Suomen #ebola-epäilyn tulos?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-103", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-1.8156,52.529407,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Ray Wilkes","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Ray Wilkes</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:26:41-0700<td></tr> <tr><td>Message:</td> <td>BREAKING NEWS-Kaci Hickox wins in Ebola case: Judge rejects Maine's bid to quarantine nurse</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-104", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-93.288254,44.827641,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"CJ CampAIGN EMAILS","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>CJ CampAIGN EMAILS</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:27:13-0700<td></tr> <tr><td>Message:</td> <td>Zantigo cashier is wearing a surgical mask. I rolled my eyes (ebola!) until I realized he's in costume as a doctor.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-105", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-71.640166,10.559019,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"La Revolucionaria","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>La Revolucionaria</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:27:34-0700<td></tr> <tr><td>Message:</td> <td>@la_iguanatv Remalldito el Bombardeado vas a ser tu Mierda d Tisico con Ebola @NicolasMaduro @dcabellor Busquen que Militares Apoyaban Esto</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-106", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-1.329646,52.826719,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Scotty","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Scotty</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:27:37-0700<td></tr> <tr><td>Message:</td> <td>Kirk's got Ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-107", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-85.419365,44.255267,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Kenneth","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Kenneth</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:27:42-0700<td></tr> <tr><td>Message:</td> <td>http://t.co/HaiQivZfr1</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-108", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-83.095423,42.412864,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"G","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>G</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:28:19-0700<td></tr> <tr><td>Message:</td> <td>timeline for the past week.. Riff raff look alike Pumpkin carving w/ bae Riff raff look alike Ebola Riff raff look alike</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-109", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-116.503119,33.833501,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Rob Hopwood","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Rob Hopwood</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:29:24-0700<td></tr> <tr><td>Message:</td> <td>Finally, facts and reason prevail  &gt;&gt;  In About-Face, Maine Judge Lifts #Ebola Quarantine on Nurse  http://t.co/00VGZU0pth</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-110", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-2.25237,53.086125,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"donatella versace","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>donatella versace</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:29:29-0700<td></tr> <tr><td>Message:</td> <td>They've even turned Ebola a slut http://t.co/40H8q8iUTV</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-111", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-83.248888,42.478949,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Gabrielle N. George","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Gabrielle N. George</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:29:50-0700<td></tr> <tr><td>Message:</td> <td>Ebowling Alley Over Here #ebola @ Doner http://t.co/u7GkG8nfBg</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-112", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[0.0,0.0,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Samuel Hall","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Samuel Hall</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:30:13-0700<td></tr> <tr><td>Message:</td> <td>Mobile phone records could help the fight against Ebola, study finds http://t.co/mlUVPN9kHg</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-113", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-77.040307,39.002139,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"ILY-ASS","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>ILY-ASS</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:30:27-0700<td></tr> <tr><td>Message:</td> <td> Yall some filthy niggas, I ain't getting ebola  http://t.co/T5n3bPKpdg</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-114", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-86.244932,12.12383,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Luis Rafael Sanchez ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Luis Rafael Sanchez </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:31:08-0700<td></tr> <tr><td>Message:</td> <td>Llego y en el airport monton de gente cubierta de pies a cabeza😼 monton  de locos el ebola no ha llego a centroamerica..</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-115", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-0.144794,51.50946,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"James Smither","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>James Smither</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:31:18-0700<td></tr> <tr><td>Message:</td> <td>Business in the hot zone: How one global corporation has managed the Ebola epidemic via @FortuneMagazine http://t.co/EyosBy6Dg0</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-116", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-78.742079,34.639253,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Sydney Elizabeth","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Sydney Elizabeth</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:31:18-0700<td></tr> <tr><td>Message:</td> <td>Lexy said she was gonna get Ebola from sitting on this floor 😂💀</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-117", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-88.287496,41.747427,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"fatimah alisa","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>fatimah alisa</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:31:29-0700<td></tr> <tr><td>Message:</td> <td>According to this last study I read the average American has a 1 in 13.3 million chance of contracting Ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-118", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-83.232582,42.291353,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Cass Tapia","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Cass Tapia</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:31:39-0700<td></tr> <tr><td>Message:</td> <td>@MackenzieKeats ebola doctor</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-119", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-9.212453,53.272994,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Polly ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Polly </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:31:58-0700<td></tr> <tr><td>Message:</td> <td>US judge issues Ebola quarantine order - a bike ride sounds OK under order #ebolaquarantine #EbolaUSA http://t.co/ln3yDAH5Os via @RTENewsNow</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-120", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-116.503169,33.833271,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Rob Hopwood","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Rob Hopwood</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:32:08-0700<td></tr> <tr><td>Message:</td> <td>Reason &amp; science prevail. It’s simple. She is not infectious &gt;&gt; “In About-Face, Maine Judge Lifts #Ebola Quarantine�? http://t.co/v1OC5P1eRz</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-121", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[28.283903,-25.739361,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Dorothy Ngila","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Dorothy Ngila</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:32:26-0700<td></tr> <tr><td>Message:</td> <td>Liberia opens 1 of largest Ebola treatment centers http://t.co/xmPRBZQyy1</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-122", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-89.212461,13.731899,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Esosoy","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Esosoy</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:32:55-0700<td></tr> <tr><td>Message:</td> <td>La mentira del Ebola denunciada por un Africano Leer: http://t.co/kBwomY7xjo http://t.co/1lsp1CQ6Xa /saquen uds sus propias conclusiones</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-123", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-100.799613,46.829811,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Wanbdí G'deská Nada","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Wanbdí G'deská Nada</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:33:08-0700<td></tr> <tr><td>Message:</td> <td> @WeLoveRobDyrdek: This dude told his kid he had Ebola 😂😂 http://t.co/Oh0iPXKYEO  @_smashley32</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-124", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-73.733629,40.664649,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Mercedes","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Mercedes</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:33:33-0700<td></tr> <tr><td>Message:</td> <td>Being #Ebola for Halloween is ridiculous...so many people around the world die from this everyday. People seriously have problems.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-125", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-77.290574,38.651492,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Mike Quinton","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Mike Quinton</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:33:38-0700<td></tr> <tr><td>Message:</td> <td>http://t.co/XKG93R6oZq Is ebola replacing the race card?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-126", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-2.979051,53.488762,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Sean","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Sean</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:33:45-0700<td></tr> <tr><td>Message:</td> <td>My Ebola outfit is making me sneeze #banterween #bantz #quiff #arsenewengercoats</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-127", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[28.28403,-25.739385,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Dorothy Ngila","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Dorothy Ngila</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:34:54-0700<td></tr> <tr><td>Message:</td> <td>Africans have been the worst responders in Ebola crisis http://t.co/IASQuPVr6i</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-128", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-117.612284,34.022725,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"GRAMPA1942","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>GRAMPA1942</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:34:56-0700<td></tr> <tr><td>Message:</td> <td>Judge enforces Ebola isolation of defiant Maine nurse - http://t.co/Lqg4SNSaUc</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-129", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-121.577371,36.991237,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"�?�?","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>�?�?</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:35:07-0700<td></tr> <tr><td>Message:</td> <td>instead of giving out candy tonight, give them ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-130", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-48.478296,-1.44203,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Synkless Void","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Synkless Void</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:35:09-0700<td></tr> <tr><td>Message:</td> <td>@CallidusKrevz EU FALEI QUE TU IA METER EBOLA STRIKES BOA MONSTRO</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-131", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[13.380306,49.770229,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Vojtěch Čuňátko","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Vojtěch Čuňátko</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:35:10-0700<td></tr> <tr><td>Message:</td> <td>Letos je mým prevlekem Ebola :)</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-132", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-83.597981,41.623833,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"kaliegh hummer","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>kaliegh hummer</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:35:31-0700<td></tr> <tr><td>Message:</td> <td>so far the best ebola meme i've seen. http://t.co/aNFoPiMp40</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-133", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-74.180124,40.691154,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"ʎəlɥs�?","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>ʎəlɥs�?</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:35:53-0700<td></tr> <tr><td>Message:</td> <td>so many people coughing rn #ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-134", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-95.815792,36.057309,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"M•J","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>M•J</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:36:09-0700<td></tr> <tr><td>Message:</td> <td>U have Ebola #wishfulthinking </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-135", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-80.159434,26.02183,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"FreetheT","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>FreetheT</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:36:26-0700<td></tr> <tr><td>Message:</td> <td>#ScaryStoriesIn5Words I've been diagnosed with Ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-136", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-87.626267,41.888046,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Chicago CP","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Chicago CP</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:36:27-0700<td></tr> <tr><td>Message:</td> <td>Judge rejects Ebola quarantine for nurse: A Maine judge on Friday rejected a bid by state health officials to… http://t.co/LwNJIIOZxt</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-137", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-88.62437,37.072091,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀◮⠀⠀⠀⠀⠀⠀⠀","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀◮⠀⠀⠀⠀⠀⠀⠀</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:36:41-0700<td></tr> <tr><td>Message:</td> <td>I gotta take a dump but I'm not taking one at school. might get Ebola. hell nah</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-138", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[1.27447,52.646387,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Kalum","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Kalum</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:36:56-0700<td></tr> <tr><td>Message:</td> <td>@tomleckie I hope you get ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-139", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.190065,34.694538,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Apple_Abney #32","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Apple_Abney #32</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:37:32-0700<td></tr> <tr><td>Message:</td> <td>Ebola is at Lancaster high school http://t.co/tsvjExrfiR</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-140", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-0.653688,50.854736,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"waffles","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>waffles</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:37:42-0700<td></tr> <tr><td>Message:</td> <td>Bleeding from the eyes can only mean one thing #Ebola http://t.co/WAODD6t34R</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-141", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-122.912672,45.521921,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Black Swan","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Black Swan</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:38:28-0700<td></tr> <tr><td>Message:</td> <td>My Chem exam gave me Ebola 😩</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-142", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[2.297897,48.848424,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Réserve Sanitaire","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Réserve Sanitaire</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:38:35-0700<td></tr> <tr><td>Message:</td> <td>Quelques encadrants et formateurs #ebola réservistes étaient là ! RDV en #formation ! http://t.co/3Z8KHvhrZw http://t.co/5psWjR8jb0</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-143", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.402864,33.941539,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Jared Heber","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Jared Heber</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:39:37-0700<td></tr> <tr><td>Message:</td> <td>I've been wondering, has #Ebola gone viral?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-144", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-96.807532,32.783705,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Tamsen Browne Reed","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Tamsen Browne Reed</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:39:43-0700<td></tr> <tr><td>Message:</td> <td>Obama Tries A 'Throw Everything Against The Wall' Approach To Ebola http://t.co/LI8JbE5FkS</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-145", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-80.763313,41.290022,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"#grets.","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>#grets.</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:39:52-0700<td></tr> <tr><td>Message:</td> <td>Who needs Ebola when you can have Leucopenia?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-146", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-1.769517,52.480953,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Tyler Hames","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Tyler Hames</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:39:55-0700<td></tr> <tr><td>Message:</td> <td>I feel really sick and I've never felt like this before so I've come to the conclusion that it's Ebola. Goodbye</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-147", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-46.856505,-23.720784,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"isa ∞","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>isa ∞</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:40:04-0700<td></tr> <tr><td>Message:</td> <td>sai ow ebola estragada</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-148", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-92.156943,32.518941,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Arden Tweets","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Arden Tweets</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:40:17-0700<td></tr> <tr><td>Message:</td> <td>Kinda glad #Maine got the temporary court order against the #Ebola nurse.Not Bcuz she's contagious but Bcuz she was such a b*tch about it.�?</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-149", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-54.114847,-25.30039,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"100% Býřüľėïb","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>100% Býřüľėïb</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:40:33-0700<td></tr> <tr><td>Message:</td> <td>@pqpgirardi com essa bala n pega nem ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-150", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-2.72451,56.05446,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Nick","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Nick</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:40:59-0700<td></tr> <tr><td>Message:</td> <td> Hink ave got ebola  Granny Park</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-151", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-86.013514,39.934361,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Yly (317)","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Yly (317)</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:41:11-0700<td></tr> <tr><td>Message:</td> <td>Wrap it before you tap it... You never know who has herpes... Or Ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-152", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-118.003727,33.677252,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Tu Chainzz","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Tu Chainzz</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:41:53-0700<td></tr> <tr><td>Message:</td> <td>Mr. clawitter just said I look like an Ebola patient..</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-153", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[11.186727,60.265409,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"ⓜ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>ⓜ</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:42:36-0700<td></tr> <tr><td>Message:</td> <td>@vendelas @ericsmedlund tänker kasta ebola på dig</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-154", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-94.156826,45.557439,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"The Captain™","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>The Captain™</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:42:53-0700<td></tr> <tr><td>Message:</td> <td>China Star Buffet cures hangovers, Ebola, and cancer.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-155", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-79.996034,40.43921,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Jay Hornack","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Jay Hornack</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:43:14-0700<td></tr> <tr><td>Message:</td> <td>Maine Judge Rejects Ebola Quarantine for Nurse http://t.co/wBUbR4j6y4 Victory for sanity</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-156", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-86.806096,36.144332,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Omar Arouna","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Omar Arouna</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:44:02-0700<td></tr> <tr><td>Message:</td> <td>#Vanderbilt University, visiting with #Andrew #Flyak who is working with the #Crowe #Laboratory developing #Ebola specific human antibodies</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-157", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-91.028668,33.394448,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"simone collins","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>simone collins</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:44:39-0700<td></tr> <tr><td>Message:</td> <td>Bet yo arm look like Ebola 😂 https://t.co/JndL3IfEXo</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-158", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-97.086789,32.88253,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Richard Casarez","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Richard Casarez</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:44:49-0700<td></tr> <tr><td>Message:</td> <td>Good news---------&gt; http://t.co/EB8NZwAhY4</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-159", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-83.07734,39.047,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Tyesa Mead","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Tyesa Mead</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:44:55-0700<td></tr> <tr><td>Message:</td> <td>Wanna hear a joke about Ebola? Never mind, you won't get it!😂</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-160", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-76.756089,18.016169,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Jen","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Jen</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:45:55-0700<td></tr> <tr><td>Message:</td> <td>“@FOXALOT_Will: Yet to see an Ebola costume... Y'all chilling?�? http://t.co/MYNtQcO1ky</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-161", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-84.435772,33.642144,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Brooke Hickman","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Brooke Hickman</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:45:59-0700<td></tr> <tr><td>Message:</td> <td>I'm slightly confused on who is in costume and who is protecting themselves from Ebola.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-162", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-86.806393,36.144544,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Omar Arouna","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Omar Arouna</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:46:23-0700<td></tr> <tr><td>Message:</td> <td>@FlyakAndrew great job on your Work on Ebola</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-163", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-43.486504,-23.021668,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Júlia Dutra ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Júlia Dutra </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:46:23-0700<td></tr> <tr><td>Message:</td> <td>@shit_julia ebola giovana</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-164", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.058569,-34.868234,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Ciro B| ","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Ciro B| </td></tr> <tr><td>Date:</td> <td>2014-10-31T10:46:40-0700<td></tr> <tr><td>Message:</td> <td> Me voy a fumar un porro y voy a salir a correr en bolas con Ebola  JAJAJAJAJJAJAJAJAJ</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-165", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-98.41458,29.524987,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Jason A. Samfield","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Jason A. Samfield</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:46:51-0700<td></tr> <tr><td>Message:</td> <td>@Mcflyathome Her roommate in West Africa came down with Ebola.  She could very well come down with it just like the doc in NYC or TX nurses.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-166", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-79.724925,40.466423,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Tom","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Tom</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:47:34-0700<td></tr> <tr><td>Message:</td> <td>Reason reigns in the courts of Maine.  Maine Judge Rejects Ebola Quarantine for Nurse http://t.co/gciFsATLh6.</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-167", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-59.789479,-30.949724,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"ClericoDeCebollayAjo","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>ClericoDeCebollayAjo</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:47:37-0700<td></tr> <tr><td>Message:</td> <td>Se cura de ebola http://t.co/nsuqAdogen</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-168", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-97.086896,32.882557,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Richard Casarez","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Richard Casarez</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:47:47-0700<td></tr> <tr><td>Message:</td> <td>http://t.co/WmTeZWpWbk</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-169", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-75.755404,39.680675,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Alyssa Hartstein","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Alyssa Hartstein</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:47:49-0700<td></tr> <tr><td>Message:</td> <td>Ebola emails from UD are really emotionally satisfying y'know</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-170", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-59.42311,-34.657677,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"•Laau•","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>•Laau•</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:48:00-0700<td></tr> <tr><td>Message:</td> <td>Ese RT del negro, me dio ebola �?�</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-171", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-77.374245,37.736038,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Gamerz For Life","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Gamerz For Life</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:48:24-0700<td></tr> <tr><td>Message:</td> <td>It's funny how Obama said its ok for immigrants that have Ebola can come to America  to cure it </td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-172", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-95.620381,29.594704,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"denzel.","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>denzel.</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:48:50-0700<td></tr> <tr><td>Message:</td> <td>@Trippy_Tray Ebola scene</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-173", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-91.653158,42.001187,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Jared Gosse","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Jared Gosse</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:49:04-0700<td></tr> <tr><td>Message:</td> <td>@agonner24 has Ebola! #allhellwillbreakloose</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-174", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-122.901958,45.562857,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"DENISE","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>DENISE</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:49:10-0700<td></tr> <tr><td>Message:</td> <td>@RonaldoD107 I think I got Ebola from reading about it</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-175", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-117.451377,34.010497,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"kimberly Gutierrez","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>kimberly Gutierrez</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:49:39-0700<td></tr> <tr><td>Message:</td> <td>The best costume out of the whole school is obviously the Ebola squad they on point</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-176", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-103.402872,25.526694,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"promosaludtorreon","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>promosaludtorreon</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:50:12-0700<td></tr> <tr><td>Message:</td> <td>plática issste la situación actual en mundo del ebola educar a la población p/ prevenir enfermedades @TorreonDSalud http://t.co/lHV3iO8RHj</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-177", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-58.458546,-34.604721,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Zowy♥","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Zowy♥</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:50:43-0700<td></tr> <tr><td>Message:</td> <td>Tobias hablando del ebola me muero</td></tr> </table></p>" 
+ },
+ {
+  "id":"Ebola-178", 
+  "name":"Ebola", 
+  "position":{"cartographicDegrees":[-82.101894,33.537824,0]},
+  "billboard":{"image":"../icons/twitter.png"},
+  "label":{"scale":0.5,"text":"Thomas Murphy","show":false}, 
+  "description":"<!--HTML--><table><tr><td>Screen Name:</td> <td>Thomas Murphy</td></tr> <tr><td>Date:</td> <td>2014-10-31T10:50:54-0700<td></tr> <tr><td>Message:</td> <td>When Ebola passes me the aux chord http://t.co/gHBlOzXK9z</td></tr> </table></p>" 
+ }
+]

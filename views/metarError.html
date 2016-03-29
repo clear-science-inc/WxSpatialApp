@@ -1,0 +1,15 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* METAR modal error dialog.
+-->
+<div class="modal-header">
+    <h3>METAR Error</h3>
+</div>
+<div  class="modal-body" id='metarErrorMessage'>
+	<p style='color: black;'>{{weatherService.errorMessage}}</p>
+</div>
+<div class="modal-footer">
+    <button class="btn btn-primary" ng-click="ok()">Change OBS Data Source Preference</button>
+    <button class="btn btn-warning" ng-click="cancel()">Cancel</button>
+</div>

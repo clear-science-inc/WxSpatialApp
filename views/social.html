@@ -1,0 +1,25 @@
+<!--
+* Copyright 2014 General Dynamics Information Technology.
+* 
+* View portion of Weather Panel.
+-->
+<div id='socialMediaPanel'>
+     <div ng-controller='socialMediaCtrl' id='socialMediaCtrl'>
+        <!--
+          [TREE attribute]
+          angular-treeview: the treeview directive
+          tree-model : the tree model on $scope.
+          node-id : each node's id
+          node-label : each node's label
+          node-children: each node's children
+        -->
+        <div id='socialMediaTree' class="bda-products-tree"
+          data-tree-id="smtree_ID"
+          data-angular-treeview="true"
+          data-tree-model="socialMediaService.products"
+          data-node-id="productId"
+          data-node-label="nodeLabel"
+          data-node-children="children" >
+        </div>
+    </div>
+</div>
